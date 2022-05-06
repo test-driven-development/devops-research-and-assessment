@@ -6,6 +6,7 @@
 
 (it's not all there is to it)
 
-<aside class="notes">
-  A comprehensive overview of the State of Devops Reports
-</aside>
+notes:
+A comprehensive overview of the State of Devops Reports
+                                                            
+                                                            
