@@ -18,7 +18,6 @@ A comprehensive overview of the State of Devops Reports
 
 <video class="plain" width="50%" data-src="resources/This-American-Life-561-NUMMI.mp4" controls muted></video>
 
-                                                            
 ===
 <!-- .slide: data-background="resources/footer.svg" data-background-size="contain" data-background-position="bottom"  -->
 
