@@ -41,3 +41,13 @@ A comprehensive overview of the State of Devops Reports
 <p style="padding: 1em; background: pink;">Two</p>
 <p style="padding: 0.5em; background: indigo;">Three</p>
 
+===
+<!-- .slide: data-background="resources/footer.svg" data-background-size="contain" data-background-position="bottom"  -->
+
+<!--suppress RequiredAttributes -->
+<div class="r-hstack">
+  <p style="padding: 1.5em; background: salmon;">One</p>
+  <p style="padding: 1em; background: pink;">Two</p>
+  <p style="padding: 0.5em; background: indigo;">Three</p>
+</div>
+
