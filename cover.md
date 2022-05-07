@@ -4,7 +4,9 @@
 
 <img class="plain" data-src="resources/fourkeys_wide.svg" alt="four keys logo"/>
 
-(it's not all there is to it) <!-- .element: class="fragment" -->
+<blockquote> <!-- .element: class="fragment" -->
+  <p>(it's not all there is to it)</p> 
+</blockquote>
 
 notes:
 A comprehensive overview of the State of Devops Reports
