@@ -113,7 +113,21 @@ notes:
 - Nicole has taken no prisoners in demanding credit for her leadership of DORA
   from her misogynist detractors
 
-next -> DORA
+next -> survey responses
+
+___
+
+<div class="r-vstack justify-between items start">
+  <Blockquote><b>survey responses</b></Blockquote>
+  <img class="plain" width="40%" height="40%" data-src="resources/respondents.png" alt="respondents"/> 
+</div>
+
+notes:
+
+- Nicole has taken no prisoners in demanding credit for her leadership of DORA
+  from her misogynist detractors
+
+next -> methodology
 
 ===
 <video class="plain" width="50%" data-src="resources/This-American-Life-561-NUMMI.mp4" controls muted></video>
