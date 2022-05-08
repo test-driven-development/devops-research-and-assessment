@@ -2,7 +2,7 @@
 <img class="plain" data-src="resources/fourkeys_wide.svg" alt="four keys logo"/>
 
 <blockquote> <!-- .element: class="fragment" -->
-  <p>(it's not all there is to it)</p> 
+  <p><b>(it's not all there is to it)</b></p> 
 </blockquote>
 
 notes:
@@ -24,10 +24,10 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
-  <Blockquote>Soo Choi</Blockquote>
+  <Blockquote><b>Soo Choi</b></Blockquote>
   <img class="plain" width="290px" height="290px" data-src="resources/soo.png" alt="soo"/>
   <p>
-    NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software
+    **NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software**
   </p>
 </div>
 
@@ -41,15 +41,16 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
-  <Blockquote>Jez Humble</Blockquote>
+  <Blockquote><b>Jez Humble</b></Blockquote>
   <img class="plain" width="290px" height="290px" data-src="resources/jez.png" alt="jez humble"/>
   <img class="plain" data-src="resources/jez-bio.jpg" alt="jez"/>
 </div>
 
 notes:
 
-- Jez Humble needs no introduction and joined the DevOps surveys @ puppet labs
-  in 2014
+- Jez Humble needs no introduction
+- joined the DevOps surveys @ puppet labs in 2014
+- published 2nd edition of the DevOps Handbook last year
 
 next -> Gene
 
@@ -57,15 +58,16 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
-  <Blockquote>Gene Kim</Blockquote>
+  <Blockquote><b>Gene Kim</b></Blockquote>
   <img class="plain" width="290px" height="290px" data-src="resources/gene.png" alt="gene"/>
   <img class="plain" data-src="resources/gene-bio.jpg" alt="gene"/>
 </div>
 
 notes:
 
-- Gene Kim is prolific in ops, runs itRevolution.com, and also joined the DevOps
-  surveys @ puppet labs in 2014
+- Gene Kim is prolific in ops
+- runs itRevolution.com
+- also joined the DevOps surveys @ puppet labs in 2014
 
 next -> Nicole
 
@@ -73,7 +75,7 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
-  <Blockquote>Dr. Nicole Forsgren</Blockquote>
+  <Blockquote><b>Dr. Nicole Forsgren</b></Blockquote>
   <img class="plain" width="290px" height="290px" data-src="resources/nicole.png" alt="nicole"/>
   <p>
    Dr. Nicole Forsgren is a Partner at Microsoft Research, where she leads <em><b>Developer Velocity Lab</b></em>.  She is best known for her work measuring the technology process.  
@@ -82,8 +84,9 @@ ___
 
 notes:
 
-- Nicole has taken no prisoners in demanding credit for her leadership of DORA
-  from her misogynist detractors
+- Nicole leads the science behind the DORA studies
+- has taken no prisoners in demanding credit for her leadership of DORA from her
+  misogynist detractors
 
 next -> DORA / accelerate
 
@@ -91,7 +94,7 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
-  <Blockquote>DORA</Blockquote>
+  <Blockquote><b>DORA</b></Blockquote>
   <div class="r-stack">
     <img class="plain" width="290px" height="290px" data-src="resources/nicole.png" alt="nicole"/> 
     <img class="plain" width="290px" height="290px" data-src="resources/jez.png" alt="jez humble"/> <!-- .element: class="fragment" -->
@@ -110,8 +113,7 @@ ___
 
 notes:
 
-- Nicole has taken no prisoners in demanding credit for her leadership of DORA
-  from her misogynist detractors
+- Accelerate was published in 2018
 
 next -> survey responses
 
@@ -123,6 +125,8 @@ ___
 </div>
 
 notes:
+
+- more than 32,000 total survey responses
 
 - Nicole has taken no prisoners in demanding credit for her leadership of DORA
   from her misogynist detractors
