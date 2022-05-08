@@ -8,7 +8,7 @@
 notes:
 next -> The State of DevOps Reports Home Page
 
----
+___
 
 <iframe date-preload data-src="https://www.devops-research.com/research.html#reports" width="900px" height="600px"></iframe>
 
@@ -20,7 +20,7 @@ notes:
 
 next -> started in 2012 with Soo Choi
 
----
+___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
@@ -37,7 +37,7 @@ notes:
 
 next -> Jez Humble
 
----
+___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
@@ -53,7 +53,7 @@ notes:
 
 next -> Gene
 
----
+___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
@@ -69,7 +69,7 @@ notes:
 
 next -> Nicole
 
----
+___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
@@ -87,7 +87,7 @@ notes:
 
 next -> DORA / accelerate
 
----
+___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
