@@ -82,7 +82,38 @@ next -> Nicole
 
 notes:
 
+- Nicole has taken no prisoners in demanding credit for her leadership of DORA
+  from her misogynist detractors
 
+next -> DORA / accelerate
+
+---
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack justify-between">
+  <Blockquote>DORA</Blockquote>
+  <div class="r-stack">
+    <img class="plain" width="290px" height="290px" data-src="resources/nicole.png" alt="nicole"/> 
+    <img class="plain" width="290px" height="290px" data-src="resources/jez.png" alt="jez humble"/> <!-- .element: class="fragment" -->
+    <img class="plain" width="290px" height="290px" data-src="resources/gene.png" alt="gene"/> <!-- .element: class="fragment" -->
+    <img class="plain" width="290px" height="290px" data-src="resources/soo.png" alt="soo"/> <!-- .element: class="fragment" -->
+    <img class="plain" width="290px" height="290px" data-src="resources/accelerate.jpg" alt="accelerate"/> <!-- .element: class="fragment" -->
+  </div>
+
+  <div class="r-hstack"> <!-- .element: class="fragment" -->
+    <img class="plain" width="150px" height="150px" data-src="resources/nicole.png" alt="nicole"/>
+    <img class="plain" width="150px" height="150px" data-src="resources/jez.png" alt="jez humble"/>
+    <img class="plain" width="150px" height="150px" data-src="resources/gene.png" alt="gene"/>
+  </div>
+
+</div>
+
+notes:
+
+- Nicole has taken no prisoners in demanding credit for her leadership of DORA
+  from her misogynist detractors
+
+next -> DORA
 
 ===
 <video class="plain" width="50%" data-src="resources/This-American-Life-561-NUMMI.mp4" controls muted></video>
