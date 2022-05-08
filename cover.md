@@ -57,6 +57,8 @@ next -> Gene
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
+  <Blockquote>Gene Kim</Blockquote>
+  <img class="plain" width="290px" height="290px" data-src="resources/gene.png" alt="gene"/>
   <img class="plain" data-src="resources/gene-bio.jpg" alt="gene"/>
 </div>
 
