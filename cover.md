@@ -1,5 +1,4 @@
 <!--suppress RequiredAttributes -->
-
 <img class="plain" data-src="resources/fourkeys_wide.svg" alt="four keys logo"/>
 
 <blockquote> <!-- .element: class="fragment" -->
@@ -7,9 +6,32 @@
 </blockquote>
 
 notes:
-A comprehensive overview of the State of Devops Reports
-                                                            
+next -> The State of DevOps Reports Home Page
+
 ---
+
+<iframe date-preload data-src="https://www.devops-research.com/research.html#reports" width="900px" height="600px"></iframe>
+
+notes:
+
+- started in 2012 @ puppet labs
+- years 2014-2021 found ons cloud.google.com/devops-reports
+- 2020 missing due to the pandemic
+
+next -> started in 2012 with Soo Choi
+
+---
+<!--suppress RequiredAttributes -->
+
+#### Soo Choi
+
+<img class="plain" width="290px" height="290px" data-src="resources/soo.png" alt="soo choi"/>
+
+<p>
+   NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software  
+</p>
+
+===
 <video class="plain" width="50%" data-src="resources/This-American-Life-561-NUMMI.mp4" controls muted></video>
 
 ===
