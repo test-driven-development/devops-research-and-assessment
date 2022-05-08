@@ -57,8 +57,6 @@ next -> Gene
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack justify-between">
-  <Blockquotep>Gene Kim</Blockquotep>
-  <img class="plain" width="290px" height="290px" data-src="resources/gene.png" alt="jez humble"/>
   <img class="plain" data-src="resources/gene-bio.jpg" alt="gene"/>
 </div>
 
@@ -82,9 +80,7 @@ next -> Nicole
 
 notes:
 
-- Soo Choi started the DevOps surveys @ puppet labs in 2012
 
-next -> Jez Humble
 
 ===
 <video class="plain" width="50%" data-src="resources/This-American-Life-561-NUMMI.mp4" controls muted></video>
