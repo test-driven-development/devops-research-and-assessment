@@ -356,10 +356,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   }
 }
 .header-left {
-  background-image: url("../resources/header.png");
+  background-image: url("../resources/header.png"), url("../resources/footer.svg");
   background-color: #fff;
   background-size: 100%;
-  background-position: center top;
+  background-position: center top, center bottom;
   background-repeat: no-repeat;
   width: inherit;
   height: inherit;
