@@ -23,13 +23,68 @@ next -> started in 2012 with Soo Choi
 ---
 <!--suppress RequiredAttributes -->
 
-#### Soo Choi
+<div class="r-vstack justify-between">
+  <Blockquote>Soo Choi</Blockquote>
+  <img class="plain" width="290px" height="290px" data-src="resources/soo.png" alt="soo"/>
+  <p>
+    NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software
+  </p>
+</div>
 
-<img class="plain" width="290px" height="290px" data-src="resources/soo.png" alt="soo choi"/>
+notes:
 
-<p>
-   NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software  
-</p>
+- Soo Choi started the DevOps surveys @ puppet labs in 2012
+
+next -> Jez Humble
+
+---
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack justify-between">
+  <Blockquote>Jez Humble</Blockquote>
+  <img class="plain" width="290px" height="290px" data-src="resources/jez.png" alt="jez humble"/>
+  <img class="plain" data-src="resources/jez-bio.jpg" alt="jez"/>
+</div>
+
+notes:
+
+- Jez Humble needs no introduction and joined the DevOps surveys @ puppet labs
+  in 2014
+
+next -> Gene
+
+---
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack justify-between">
+  <Blockquotep>Gene Kim</Blockquotep>
+  <img class="plain" width="290px" height="290px" data-src="resources/gene.png" alt="jez humble"/>
+  <img class="plain" data-src="resources/gene-bio.jpg" alt="gene"/>
+</div>
+
+notes:
+
+- Gene Kim is prolific in ops, runs itRevolution.com, and also joined the DevOps
+  surveys @ puppet labs in 2014
+
+next -> Nicole
+
+---
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack justify-between">
+  <Blockquote>Dr. Nicole Forsgren</Blockquote>
+  <img class="plain" width="290px" height="290px" data-src="resources/nicole.png" alt="nicole"/>
+  <p>
+   Dr. Nicole Forsgren is a Partner at Microsoft Research, where she leads <em><b>Developer Velocity Lab</b></em>.  She is best known for her work measuring the technology process.  
+  </p>
+</div>
+
+notes:
+
+- Soo Choi started the DevOps surveys @ puppet labs in 2012
+
+next -> Jez Humble
 
 ===
 <video class="plain" width="50%" data-src="resources/This-American-Life-561-NUMMI.mp4" controls muted></video>
