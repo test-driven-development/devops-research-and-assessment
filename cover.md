@@ -210,7 +210,16 @@ next -> statistical segmentation
 ___
 
   <Blockquote><h2 class="r-fit-text">statistical segmentation</h2></Blockquote>
+  <div class="r-stack">
+    <img class="plain r-stretch" data-src="resources/low.png" alt="low"/> <!-- .element: class="fragment" -->
+    <img class="plain r-stretch" data-src="resources/medium.png" alt="medium"/> <!-- .element: class="fragment" -->
+    <img class="plain r-stretch" data-src="resources/high.png" alt="high"/> <!-- .element: class="fragment" -->
+    <img class="plain r-stretch" data-src="resources/elite.png" alt="elite"/> <!-- .element: class="fragment" -->
+    <img class="plain r-stretch" data-src="resources/statistical-segmentation.png" alt="statistical-segmentation"/> <!-- .element: class="fragment" -->
+    <img class="plain r-stretch" data-src="resources/statistical-segmentation-predicts-outcomes.png" alt="statistical-segmentation-predicts-outcomes"/> <!-- .element: class="fragment" -->
+  </div>
+
 notes:
 
-next -> speed
+next -> deployment frequency
 
