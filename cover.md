@@ -240,3 +240,16 @@ notes:
 
 next -> amazon speed
 
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite.png" alt="speed-moves-with-stability"/>
+    <img class="r-stretch" src="resources/amazon-deployments.png" alt="amazon-deployments"/>
+  </div>
+
+notes:
+
+- this was 10 years ago...imagine now
+
+next -> google speed
+
