@@ -253,3 +253,14 @@ notes:
 
 next -> google speed
 
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite.png" alt="speed-moves-with-stability"/>
+    <img class="r-stretch" src="resources/google-scale.png" alt="google-scale"/>
+  </div>
+
+notes:
+
+next -> google testing scale
+
