@@ -155,6 +155,9 @@ ___
   <h4>organizational performance</h4> <!-- .element: class="fragment" -->
   <h4>software delivery performance</h4> <!-- .element: class="fragment" -->
   <h4>culture</h4> <!-- .element: class="fragment" -->
+  <Blockquote><h2>additional measures</h2></Blockquote> <!-- .element: class="fragment" -->
+  <h4>transformational leadership</h4> <!-- .element: class="fragment" -->
+  <h4>loosely coupled architecture and teams</h4> <!-- .element: class="fragment" -->
   <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
 </div>
 
@@ -191,6 +194,27 @@ ___
   <Blockquote><h2>software delivery performance</h2></Blockquote>
   <img class="r-stretch" data-src="resources/software-delivery-performance.png" alt="software-delivery-performance"/>
   <p>(these are the 4 key metrics)</p> <!-- .element: class="fragment" -->
+
+notes:
+
+next -> software delivery performance is statistically predictive of
+organizational performance
+
+___
+
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <h4>statistically predicts</h4>
+  <Blockquote><h2>organizational performance</h2></Blockquote>
+
+notes: key finding
+
+next -> DORA prescribes a recipe for improving software delivery performance
+
+___
+
+  <Blockquote><h2>DORA</h2></Blockquote>
+  <img class="r-stretch" data-src="resources/software-delivery-performance.png" alt="software-delivery-performance"/>
+  <h4>prescribes a recipe for improving software delivery performance</h4> <!-- .element: class="fragment" -->
 
 notes:
 
@@ -449,5 +473,110 @@ ___
 
 notes:
 
+next -> Account Manager's DORA Dashboard
 
+___
+
+  <div class="r-vstack">
+    <h4>Account Manager's DORA Dashboard</h4>
+    <img data-src="resources/dora-dashboard-am.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
+  </div>
+
+notes:
+
+- the 4 key metrics are meant to be tracked together
+
+next -> PLC's DORA Dashboard
+
+___
+
+  <div class="r-vstack">
+    <h4>PLC's DORA Dashboard</h4>
+    <img data-src="resources/dora-dashboard-plc.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
+  </div>
+
+notes:
+
+- the 4 key metrics are meant to be tracked together
+
+next -> PLC's progress in Q2 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack">
+  <Blockquote><b>PLC's progress in 2021</b></Blockquote>
+  <img width="600px" height="400px" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
+  <p><b>Q2</b></p>
+</div>
+
+notes:
+
+- hardly any feature work in Q2 2021
+
+next -> PLC's progress in Q3 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack">
+  <Blockquote><b>PLC's progress in 2021</b></Blockquote>
+  <img width="600px" height="400px" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
+  <p><b>Q3</b></p>
+</div>
+
+notes:
+
+- start tracking DORA at start of Q3 2021
+
+next -> PLC's progress in Q4 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack">
+  <Blockquote><b>PLC's progress in 2021</b></Blockquote>
+  <img width="600px" height="400px" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
+  <p><b>Q4</b></p>
+</div>
+
+notes:
+
+- healthy distribution of work; spikes and rework imply innovation and learning
+
+next -> PLC's speed in Q2 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack">
+  <Blockquote><b>PLC's speed in 2021</b></Blockquote>
+  <img data-src="resources/speed-Q2.jpeg" alt="nicole"/>
+  <p><b>Q2</b></p>  
+  <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
+</div>
+
+notes:
+
+- pull requests and long-lived feature branches
+
+next -> PLC's speed in Q4 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+<div class="r-vstack">
+  <Blockquote><b>PLC's speed in 2021</b></Blockquote>
+  <img data-src="resources/speed-Q4.jpeg" alt="nicole"/>
+  <p><b>Q4</b></p>
+  <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
+</div>
+
+notes:
+
+- trunk-based development
+
+next -> PLC's speed in Q2 2021
 
