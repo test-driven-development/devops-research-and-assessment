@@ -128,9 +128,6 @@ notes:
 
 - more than 32,000 total survey responses
 
-- Nicole has taken no prisoners in demanding credit for her leadership of DORA
-  from her misogynist detractors
-
 next -> methodology
 
 ===
