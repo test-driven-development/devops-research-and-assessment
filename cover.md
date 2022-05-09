@@ -278,7 +278,7 @@ next -> how to measure?
 ___
 
   <div class="r-vstack">
-    <h4>how to measure?</h4>
+    <h4>how to measure deployment frequency?</h4>
     <img class="r-stretch" src="resources/deployment-frequency-blank.png" alt="deployment-frequency"/>
   </div>
 
@@ -322,7 +322,7 @@ next -> how to measure?
 ___
 
   <div class="r-vstack">
-    <h4>how to measure?</h4>
+    <h4>how to measure lead time?</h4>
     <img class="r-stretch" src="resources/lead-time-blank.png" alt="deployment-frequency"/>
   </div>
 
@@ -366,7 +366,7 @@ next -> how to measure?
 ___
 
   <div class="r-vstack">
-    <h4>how to measure?</h4>
+    <h4>how to measure time to restore service?</h4>
     <img class="r-stretch" src="resources/mttr-blank.png" alt="deployment-frequency"/>
   </div>
 
@@ -410,7 +410,7 @@ next -> how to measure?
 ___
 
   <div class="r-vstack">
-    <h4>how to measure?</h4>
+    <h4>how to measure change failure rate?</h4>
     <img class="r-stretch" src="resources/change-fail-rate-blank.png" alt="deployment-frequency"/>
   </div>
 
