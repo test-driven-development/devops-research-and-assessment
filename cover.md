@@ -361,6 +361,94 @@ ___
 
 notes:
 
-next -> lead time: segments
+next -> how to measure?
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure?</h4>
+    <img class="r-stretch" src="resources/mttr-blank.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> speed: mttr
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure time to restore service?</h4>
+    <img class="r-stretch" src="resources/mttr.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> mttr: survey
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure time to restore service?</h4>
+    <img class="r-stretch" src="resources/mttr-question.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> mttr: segments
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure time to restore service?</h4>
+    <img class="r-stretch" src="resources/mttr-segments.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> how to measure?
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure?</h4>
+    <img class="r-stretch" src="resources/change-fail-rate-blank.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> speed: mttr
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure change failure rate?</h4>
+    <img class="r-stretch" src="resources/change-fail-rate.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> mttr: survey
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure change failure rate?</h4>
+    <img class="r-stretch" src="resources/change-fail-rate-question.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> mttr: segments
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure change failure rate?</h4>
+    <img class="r-stretch" src="resources/change-fail-rate-segments.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> mttr: segments
 
 
