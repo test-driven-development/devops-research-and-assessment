@@ -119,7 +119,7 @@ next -> survey responses
 
 ___
 
-<div class="r-vstack justify-between items start">
+<div class="r-vstack justify-between">
   <Blockquote><b>survey responses</b></Blockquote>
   <img class="plain" width="40%" height="40%" data-src="resources/respondents.png" alt="respondents"/> 
 </div>
@@ -129,6 +129,93 @@ notes:
 - more than 32,000 total survey responses
 
 next -> methodology
+
+___
+
+<div class="r-vstack">
+  <Blockquote><h2>methodology</h2></Blockquote>
+  <h4>statistical segmentation</h4> <!-- .element: class="fragment" -->
+  <h4>latent constructs</h4> <!-- .element: class="fragment" -->
+  <h4>likert-type scales</h4> <!-- .element: class="fragment" -->
+  <img class="r-stretch" src="resources/placeholder.png" alt="placeholder"/>
+</div>
+
+notes:
+
+- explain segmentation
+- explain latent construct
+- explain likert-type scales
+
+next -> measures
+
+___
+
+<div class="r-vstack">
+  <Blockquote><h2>measures</h2></Blockquote>
+  <h4>organizational performance</h4> <!-- .element: class="fragment" -->
+  <h4>software delivery performance</h4> <!-- .element: class="fragment" -->
+  <h4>culture</h4> <!-- .element: class="fragment" -->
+  <img class="r-stretch" src="resources/placeholder.png" alt="placeholder"/>
+</div>
+
+notes:
+
+next -> measures of organizational performance
+
+___
+
+<div class="r-vstack">
+  <Blockquote><h2>organizational performance</h2></Blockquote>
+  <h4>productivity</h4> <!-- .element: class="fragment" -->
+  <h4>profitability</h4> <!-- .element: class="fragment" -->
+  <h4>market share</h4> <!-- .element: class="fragment" -->
+  <img class="r-stretch" src="resources/placeholder.png" alt="placeholder"/>
+</div>
+
+notes:
+
+next -> software delivery performance
+
+___
+
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <img class="r-stretch" src="resources/placeholder.png" alt="placeholder"/>
+  <p></p>
+
+notes:
+
+next -> 4 keys
+
+___
+
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <img class="r-stretch" src="resources/software-delivery-performance.png" alt="software-delivery-performance"/>
+  <p>(these are the 4 key metrics)</p> <!-- .element: class="fragment" -->
+
+notes:
+
+next -> data collection
+
+___
+
+<iframe date-preload data-src="https://www.devops-research.com/quickcheck.html#questions" width="900px" height="600px"></iframe>
+
+notes:
+
+- this is how DORA collects data
+- this is also one way to baseline a team's software delivery performance
+
+next -> statistical segmentation
+
+___
+
+  <Blockquote><h2 class="r-fit-text">statistical segmentation</h2></Blockquote>
+  <img class="plain r-stretch" data-src="resources/statistical-segmentation.png" alt="statistical-segmentation"/>
+   <!-- .element: class="fragment" -->
+
+notes:
+
+next -> speed
 
 ===
 <video class="plain" width="50%" data-src="resources/This-American-Life-561-NUMMI.mp4" controls muted></video>
