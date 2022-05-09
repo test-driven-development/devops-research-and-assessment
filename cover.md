@@ -211,10 +211,32 @@ ___
 
   <Blockquote><h2 class="r-fit-text">statistical segmentation</h2></Blockquote>
   <div class="r-stack">
+    <img class="plain r-stretch" data-src="resources/low-segment.png" alt="low"/> <!-- .element: class="fragment" -->
+    <img class="plain r-stretch" data-src="resources/medium-segment.png" alt="medium"/> <!-- .element: class="fragment" -->
+    <img class="plain r-stretch" data-src="resources/high-segment.png" alt="high"/> <!-- .element: class="fragment" -->
+    <img class="plain r-stretch" data-src="resources/elite-segment.png" alt="elite"/> <!-- .element: class="fragment" -->
     <img class="plain r-stretch" data-src="resources/statistical-segmentation.png" alt="statistical-segmentation"/> <!-- .element: class="fragment" -->
     <img class="plain r-stretch" data-src="resources/statistical-segmentation-predicts-outcomes.png" alt="statistical-segmentation-predicts-outcomes"/> <!-- .element: class="fragment" -->
   </div>
 
 notes:
 
+- this is a statistical segmentation
+
+next -> elite performers don't trade speed for stability
+
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite.png" alt="speed-moves-with-stability"/>
+    <img src="resources/speed-moves-with-stability.png" alt="speed-moves-with-stability"/>
+    <h4> elite performers don't trade speed for stability</h4> <!-- .element: class="fragment" -->
+    <img class="r-stretch" src="resources/placeholder-small.png" alt="placeholder"/>
+  </div>
+
+notes:
+
+- speed moves with stability
+
+next -> amazon speed
 
