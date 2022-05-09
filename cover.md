@@ -264,3 +264,14 @@ notes:
 
 next -> google testing scale
 
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite.png" alt="speed-moves-with-stability"/>
+    <img class="r-stretch" src="resources/cloud-scale.png" alt="cloud-scale"/>
+  </div>
+
+notes:
+
+next -> 
+
