@@ -273,58 +273,94 @@ ___
 
 notes:
 
-next ->
+next -> how to measure?
 
 ___
 
   <div class="r-vstack">
-    <img src="resources/elite-measure-blank.png" alt="speed-moves-with-stability"/>
+    <h4>how to measure?</h4>
     <img class="r-stretch" src="resources/deployment-frequency-blank.png" alt="deployment-frequency"/>
   </div>
 
 notes:
 
-next ->
+next -> speed: deployment frequency
 
 ___
 
   <div class="r-vstack">
-    <img src="resources/elite-measure.png" alt="speed-moves-with-stability"/>
-    <img class="r-stretch" src="resources/deployment-frequency-blank.png" alt="deployment-frequency"/>
-  </div>
-
-notes:
-
-next ->
-
-___
-
-  <div class="r-vstack">
-    <img src="resources/elite-measure.png" alt="speed-moves-with-stability"/>
+    <h4>how to measure deployment frequency?</h4>
     <img class="r-stretch" src="resources/deployment-frequency-speed.png" alt="deployment-frequency"/>
   </div>
 
 notes:
 
-next ->
+next -> deployment frequency: survey
 
 ___
 
   <div class="r-vstack">
-    <img src="resources/elite-measure.png" alt="speed-moves-with-stability"/>
+    <h4>how to measure deployment frequency?</h4>
     <img class="r-stretch" src="resources/deployment-frequency-question.png" alt="deployment-frequency"/>
   </div>
 
 notes:
 
+next -> deployment frequency: segments
+
 ___
 
   <div class="r-vstack">
-    <img src="resources/elite-measure.png" alt="speed-moves-with-stability"/>
+    <h4>how to measure deployment frequency?</h4>
     <img class="r-stretch" src="resources/deployment-frequency-segments.png" alt="deployment-frequency"/>
   </div>
 
 notes:
 
-next -> 
+next -> how to measure?
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure?</h4>
+    <img class="r-stretch" src="resources/lead-time-blank.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> speed: lead time
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure lead time?</h4>
+    <img class="r-stretch" src="resources/lead-time.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> lead time: survey
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure lead time?</h4>
+    <img class="r-stretch" src="resources/lead-time-question.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> lead time: segments
+
+___
+
+  <div class="r-vstack">
+    <h4>how to measure lead time?</h4>
+    <img class="r-stretch" src="resources/lead-time-segments.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next -> lead time: segments
+
 
