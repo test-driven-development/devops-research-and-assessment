@@ -210,9 +210,6 @@ next -> statistical segmentation
 ___
 
   <Blockquote><h2 class="r-fit-text">statistical segmentation</h2></Blockquote>
-  <img class="plain r-stretch" data-src="resources/statistical-segmentation.png" alt="statistical-segmentation"/>
-   <!-- .element: class="fragment" -->
-
 notes:
 
 next -> speed
