@@ -273,5 +273,58 @@ ___
 
 notes:
 
+next ->
+
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite-measure-blank.png" alt="speed-moves-with-stability"/>
+    <img class="r-stretch" src="resources/deployment-frequency-blank.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next ->
+
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite-measure.png" alt="speed-moves-with-stability"/>
+    <img class="r-stretch" src="resources/deployment-frequency-blank.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next ->
+
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite-measure.png" alt="speed-moves-with-stability"/>
+    <img class="r-stretch" src="resources/deployment-frequency-speed.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+next ->
+
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite-measure.png" alt="speed-moves-with-stability"/>
+    <img class="r-stretch" src="resources/deployment-frequency-question.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
+___
+
+  <div class="r-vstack">
+    <img src="resources/elite-measure.png" alt="speed-moves-with-stability"/>
+    <img class="r-stretch" src="resources/deployment-frequency-segments.png" alt="deployment-frequency"/>
+  </div>
+
+notes:
+
 next -> 
 
