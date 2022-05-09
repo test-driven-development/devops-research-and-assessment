@@ -137,7 +137,7 @@ ___
   <h4>statistical segmentation</h4> <!-- .element: class="fragment" -->
   <h4>latent constructs</h4> <!-- .element: class="fragment" -->
   <h4>likert-type scales</h4> <!-- .element: class="fragment" -->
-  <img class="r-stretch" src="resources/placeholder.png" alt="placeholder"/>
+  <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
 </div>
 
 notes:
@@ -155,7 +155,7 @@ ___
   <h4>organizational performance</h4> <!-- .element: class="fragment" -->
   <h4>software delivery performance</h4> <!-- .element: class="fragment" -->
   <h4>culture</h4> <!-- .element: class="fragment" -->
-  <img class="r-stretch" src="resources/placeholder.png" alt="placeholder"/>
+  <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
 </div>
 
 notes:
@@ -169,7 +169,7 @@ ___
   <h4>productivity</h4> <!-- .element: class="fragment" -->
   <h4>profitability</h4> <!-- .element: class="fragment" -->
   <h4>market share</h4> <!-- .element: class="fragment" -->
-  <img class="r-stretch" src="resources/placeholder.png" alt="placeholder"/>
+  <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
 </div>
 
 notes:
@@ -179,7 +179,7 @@ next -> software delivery performance
 ___
 
   <Blockquote><h2>software delivery performance</h2></Blockquote>
-  <img class="r-stretch" src="resources/placeholder.png" alt="placeholder"/>
+  <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
   <p></p>
 
 notes:
@@ -189,7 +189,7 @@ next -> 4 keys
 ___
 
   <Blockquote><h2>software delivery performance</h2></Blockquote>
-  <img class="r-stretch" src="resources/software-delivery-performance.png" alt="software-delivery-performance"/>
+  <img class="r-stretch" data-src="resources/software-delivery-performance.png" alt="software-delivery-performance"/>
   <p>(these are the 4 key metrics)</p> <!-- .element: class="fragment" -->
 
 notes:
@@ -228,10 +228,10 @@ next -> elite performers don't trade speed for stability
 ___
 
   <div class="r-vstack">
-    <img src="resources/elite.png" alt="speed-moves-with-stability"/>
-    <img src="resources/speed-moves-with-stability.png" alt="speed-moves-with-stability"/>
+    <img data-src="resources/elite.png" alt="speed-moves-with-stability"/>
+    <img data-src="resources/speed-moves-with-stability.png" alt="speed-moves-with-stability"/>
     <h4> elite performers don't trade speed for stability</h4> <!-- .element: class="fragment" -->
-    <img class="r-stretch" src="resources/placeholder-small.png" alt="placeholder"/>
+    <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
   </div>
 
 notes:
@@ -244,7 +244,7 @@ ___
 
   <div class="r-vstack">
     <img src="resources/elite.png" alt="speed-moves-with-stability"/>
-    <img class="r-stretch" src="resources/amazon-deployments.png" alt="amazon-deployments"/>
+    <img class="r-stretch" data-src="resources/amazon-deployments.png" alt="amazon-deployments"/>
   </div>
 
 notes:
@@ -257,7 +257,7 @@ ___
 
   <div class="r-vstack">
     <img src="resources/elite.png" alt="speed-moves-with-stability"/>
-    <img class="r-stretch" src="resources/google-scale.png" alt="google-scale"/>
+    <img class="r-stretch" data-src="resources/google-scale.png" alt="google-scale"/>
   </div>
 
 notes:
@@ -268,7 +268,7 @@ ___
 
   <div class="r-vstack">
     <img src="resources/elite.png" alt="speed-moves-with-stability"/>
-    <img class="r-stretch" src="resources/cloud-scale.png" alt="cloud-scale"/>
+    <img class="r-stretch" data-src="resources/cloud-scale.png" alt="cloud-scale"/>
   </div>
 
 notes:
@@ -279,7 +279,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure deployment frequency?</h4>
-    <img class="r-stretch" src="resources/deployment-frequency-blank.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/deployment-frequency-blank.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -290,7 +290,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure deployment frequency?</h4>
-    <img class="r-stretch" src="resources/deployment-frequency-speed.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/deployment-frequency-speed.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -301,7 +301,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure deployment frequency?</h4>
-    <img class="r-stretch" src="resources/deployment-frequency-question.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/deployment-frequency-question.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -312,7 +312,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure deployment frequency?</h4>
-    <img class="r-stretch" src="resources/deployment-frequency-segments.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/deployment-frequency-segments.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -323,7 +323,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure lead time?</h4>
-    <img class="r-stretch" src="resources/lead-time-blank.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/lead-time-blank.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -334,7 +334,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure lead time?</h4>
-    <img class="r-stretch" src="resources/lead-time.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/lead-time.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -345,7 +345,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure lead time?</h4>
-    <img class="r-stretch" src="resources/lead-time-question.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/lead-time-question.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -356,7 +356,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure lead time?</h4>
-    <img class="r-stretch" src="resources/lead-time-segments.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/lead-time-segments.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -367,7 +367,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure time to restore service?</h4>
-    <img class="r-stretch" src="resources/mttr-blank.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/mttr-blank.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -378,7 +378,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure time to restore service?</h4>
-    <img class="r-stretch" src="resources/mttr.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/mttr.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -389,7 +389,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure time to restore service?</h4>
-    <img class="r-stretch" src="resources/mttr-question.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/mttr-question.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -400,7 +400,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure time to restore service?</h4>
-    <img class="r-stretch" src="resources/mttr-segments.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/mttr-segments.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -411,7 +411,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure change failure rate?</h4>
-    <img class="r-stretch" src="resources/change-fail-rate-blank.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/change-fail-rate-blank.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -422,7 +422,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure change failure rate?</h4>
-    <img class="r-stretch" src="resources/change-fail-rate.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/change-fail-rate.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -433,7 +433,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure change failure rate?</h4>
-    <img class="r-stretch" src="resources/change-fail-rate-question.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/change-fail-rate-question.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -444,7 +444,7 @@ ___
 
   <div class="r-vstack">
     <h4>how to measure change failure rate?</h4>
-    <img class="r-stretch" src="resources/change-fail-rate-segments.png" alt="deployment-frequency"/>
+    <img class="r-stretch" data-src="resources/change-fail-rate-segments.png" alt="deployment-frequency"/>
   </div>
 
 notes:
