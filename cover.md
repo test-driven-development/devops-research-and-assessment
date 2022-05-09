@@ -27,7 +27,7 @@ ___
   <Blockquote><b>Soo Choi</b></Blockquote>
   <img class="plain" width="290px" height="290px" data-src="resources/soo.png" alt="soo"/>
   <p>
-    **NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software**
+    <b>NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software</b>
   </p>
 </div>
 
@@ -449,6 +449,5 @@ ___
 
 notes:
 
-next -> mttr: segments
 
 
