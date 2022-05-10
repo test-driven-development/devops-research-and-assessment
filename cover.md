@@ -197,13 +197,12 @@ ___
 
 notes:
 
-next -> software delivery performance is statistically predictive of
-organizational performance
+next -> software delivery performance ⇒organizational performance
 
 ___
 
   <Blockquote><h2>software delivery performance</h2></Blockquote>
-  <h4>predicts</h4>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
   <Blockquote><h2>organizational performance</h2></Blockquote>
 
 notes: key finding
@@ -484,12 +483,11 @@ notes:
 next -> Account Manager's DORA Dashboard
 
 ___
+<!--suppress RequiredAttributes -->
 
-  <div class="r-vstack">
-    <h4>Account Manager's DORA Dashboard</h4>
-    <img data-src="resources/dora-dashboard-am.png" alt="deployment-frequency"/>
-    <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
-  </div>
+  <Blockquote><b>Account Manager's DORA Dashboard</b></Blockquote>
+  <img class="r-stretch" data-src="resources/dora-dashboard-am.png" alt="nicole"/>
+  <p><b>2022</b></p>
 
 notes:
 
@@ -498,57 +496,60 @@ notes:
 next -> PLC's DORA Dashboard
 
 ___
+<!--suppress RequiredAttributes -->
 
-  <div class="r-vstack">
-    <h4>PLC's DORA Dashboard</h4>
-    <img data-src="resources/dora-dashboard-plc.png" alt="deployment-frequency"/>
-    <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
-  </div>
+  <Blockquote><b>PLC's DORA Dashboard</b></Blockquote>
+  <img class="r-stretch" data-src="resources/dora-dashboard-plc.png" alt="nicole"/>
+  <p><b>2022</b></p>
+
 
 notes:
 
 - the 4 key metrics are meant to be tracked together
 
-next -> PLC's progress in Q2 2021
+next -> balanced scorecard
+
+___
+
+  <Blockquote><b>dora dashboard is a balanced scorecard</b></Blockquote>
+  <img class="r-stretch" data-src="resources/balanced-scorecard.png" alt="nicole"/>
+
+notes:
+
+next -> PLC's work distribution in Q2 2021
 
 ___
 <!--suppress RequiredAttributes -->
 
-<div class="r-vstack">
   <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img width="600px" height="400px" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
+  <img class="r-stretch" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
   <p><b>Q2 2021</b></p>
-</div>
 
 notes:
 
 - hardly any feature work in Q2 2021
 
-next -> PLC's progress in Q3 2021
+next -> PLC's work distribution in Q3 2021
 
 ___
 <!--suppress RequiredAttributes -->
 
-<div class="r-vstack">
   <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img width="600px" height="400px" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
+  <img class="r-stretch" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
   <p><b>Q3 2021</b></p>
-</div>
 
 notes:
 
 - start tracking DORA at start of Q3 2021
 
-next -> PLC's progress in Q4 2021
+next -> PLC's work distribution in Q4 2021
 
 ___
 <!--suppress RequiredAttributes -->
 
-<div class="r-vstack">
   <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img width="600px" height="400px" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
+  <img class="r-stretch" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
   <p><b>Q4 2021</b></p>
-</div>
 
 notes:
 
@@ -559,12 +560,9 @@ next -> PLC's speed in Q2 2021
 ___
 <!--suppress RequiredAttributes -->
 
-<div class="r-vstack">
   <Blockquote><b>PLC's speed</b></Blockquote>
-  <img data-src="resources/speed-Q2.jpeg" alt="nicole"/>
-  <p><b>Q 2021</b></p>  
-  <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
-</div>
+  <img class="r-stretch" data-src="resources/speed-Q2.jpeg" alt="nicole"/>
+  <p><b>Q1 2021</b></p>  
 
 notes:
 
@@ -575,16 +573,102 @@ next -> PLC's speed in Q4 2021
 ___
 <!--suppress RequiredAttributes -->
 
-<div class="r-vstack">
   <Blockquote><b>PLC's speed</b></Blockquote>
-  <img data-src="resources/speed-Q4.jpeg" alt="nicole"/>
+  <img class="r-stretch" data-src="resources/speed-Q4.jpeg" alt="nicole"/>
   <p><b>Q4 2021</b></p>
-  <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
-</div>
 
 notes:
 
 - trunk-based development
 
-next -> PLC's speed in Q2 2021
+next -> PLC's throughput trending up
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's throughput trending up</b></Blockquote>
+  <img class="r-stretch" data-src="resources/throughput.png" alt="nicole"/>
+  <p><b>2021</b></p>
+
+notes:
+
+- trunk-based development
+
+next -> PLC's cycle time trending down
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's cycle time trending down</b></Blockquote>
+  <img class="r-stretch" data-src="resources/cycle-time.png" alt="nicole"/>
+  <p><b>2021</b></p>
+
+notes:
+
+- trunk-based development
+
+next -> PLC's net flow in Q2 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's net flow evening out</b></Blockquote>
+  <img class="r-stretch" data-src="resources/net-flow.png" alt="nicole"/>
+  <p><b>2021</b></p>
+
+notes:
+
+- trunk-based development
+
+next -> innovative culture ⇒ software delivery performance ⇒ organizational
+performance
+
+___
+
+  <Blockquote><h2>innovative culture</h2></Blockquote>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
+
+notes: key finding
+
+next -> transformational leadership ⇒ innovative culture ⇒ software delivery
+performance ⇒ organizational performance
+
+___
+
+  <Blockquote><h2>transformational leadership</h2></Blockquote>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>innovative culture</h2></Blockquote>
+  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
+
+notes: key finding
+
+next -> loosely coupled architecture and teams ⇒ software delivery performance ⇒
+organizational
+
+___
+
+  <Blockquote><h2>loosely coupled architecture and teams</h2></Blockquote>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
+
+notes: key finding
+
+___
+
+  <Blockquote><h2>return on investment</h2></Blockquote>
+  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
+
+notes: key finding
+
+___
+
+  <Blockquote><h2>how to improve</h2></Blockquote>
+  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
+
+notes: key finding
+
+
 
