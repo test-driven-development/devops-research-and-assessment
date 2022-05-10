@@ -208,6 +208,14 @@ ___
 
 notes: key finding
 
+next -> IT performance is statistically predictive of organizational performance
+
+___
+
+  <Blockquote><h2>"Firms with high-performing IT organizations were twice as likely to exceed their profitability, market share and productivity goals."</h2></Blockquote>
+
+notes: from State of Devops Report 2016
+
 next -> DORA prescribes a recipe for improving software delivery performance
 
 ___
