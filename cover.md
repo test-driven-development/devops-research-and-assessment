@@ -203,7 +203,7 @@ organizational performance
 ___
 
   <Blockquote><h2>software delivery performance</h2></Blockquote>
-  <h4>statistically predicts</h4>
+  <h4>predicts</h4>
   <Blockquote><h2>organizational performance</h2></Blockquote>
 
 notes: key finding
@@ -507,9 +507,9 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack">
-  <Blockquote><b>PLC's progress in 2021</b></Blockquote>
+  <Blockquote><b>PLC's work distribution</b></Blockquote>
   <img width="600px" height="400px" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
-  <p><b>Q2</b></p>
+  <p><b>Q2 2021</b></p>
 </div>
 
 notes:
@@ -522,9 +522,9 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack">
-  <Blockquote><b>PLC's progress in 2021</b></Blockquote>
+  <Blockquote><b>PLC's work distribution</b></Blockquote>
   <img width="600px" height="400px" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
-  <p><b>Q3</b></p>
+  <p><b>Q3 2021</b></p>
 </div>
 
 notes:
@@ -537,9 +537,9 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack">
-  <Blockquote><b>PLC's progress in 2021</b></Blockquote>
+  <Blockquote><b>PLC's work distribution</b></Blockquote>
   <img width="600px" height="400px" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
-  <p><b>Q4</b></p>
+  <p><b>Q4 2021</b></p>
 </div>
 
 notes:
@@ -552,9 +552,9 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack">
-  <Blockquote><b>PLC's speed in 2021</b></Blockquote>
+  <Blockquote><b>PLC's speed</b></Blockquote>
   <img data-src="resources/speed-Q2.jpeg" alt="nicole"/>
-  <p><b>Q2</b></p>  
+  <p><b>Q 2021</b></p>  
   <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
 </div>
 
@@ -568,9 +568,9 @@ ___
 <!--suppress RequiredAttributes -->
 
 <div class="r-vstack">
-  <Blockquote><b>PLC's speed in 2021</b></Blockquote>
+  <Blockquote><b>PLC's speed</b></Blockquote>
   <img data-src="resources/speed-Q4.jpeg" alt="nicole"/>
-  <p><b>Q4</b></p>
+  <p><b>Q4 2021</b></p>
   <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
 </div>
 
