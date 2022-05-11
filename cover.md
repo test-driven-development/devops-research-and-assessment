@@ -620,20 +620,59 @@ notes:
 
 - trunk-based development
 
-next -> innovative culture ⇒ software delivery performance ⇒ organizational
+next -> organizational culture ⇒ software delivery performance ⇒ organizational
 performance
 
 ___
 
-  <Blockquote><h2>innovative culture</h2></Blockquote>
+  <Blockquote><h2>organizational culture</h2></Blockquote>
   <h4>predicts</h4> <!-- .element: style="color:maroon" -->
   <Blockquote><h2>software delivery performance</h2></Blockquote>
-  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
 
 notes: key finding
 
-next -> transformational leadership ⇒ innovative culture ⇒ software delivery
-performance ⇒ organizational performance
+next -> definition of organizational culture
+
+___
+
+<br/>
+
+### what is culture?
+
+> #### "A pattern of shared tacit assumptions that was learned by a group as it solved its problems of external adaptation and internal integration, that has worked well enough to be considered valid and, therefore, to be taught to new members as the correct way to perceive, think, and feel in relation to those problems." <!-- .element: style="color: navy" -->
+
+**Edgar Schein, <!-- .element: style="color:maroon; font-size: 60%" -->
+_[The Corporate Culture Survival Guide](https://www.amazon.com/Corporate-Culture-Survival-Guide-Revised/dp/1511383690)_**
+
+notes: key finding
+
+next -> another definition of organizational culture
+
+___
+
+<br/>
+
+### what is culture?
+
+> #### "Our true culture is made primarily of the things no one will say... Culture is about power dynamics, unspoken priorities and beliefs, mytholgies, conflicts, enforcement of social norms, creation of in/out groups and distribution of wealth and control inside companies.." <!-- .element: style="color: navy" -->
+
+**Shanley Kane (@shanley)
+, <!-- .element: style="color:maroon; font-size: 60%" -->
+_[Your Startup is Broken: Inside the Toxic Heart of Tech Culture](https://oneibmcloud.github.io/ibm-cloud-garage-developer-bootcamp/resources/YourStartupIsBroken.pdf)_**
+
+notes: key finding
+
+next -> definition of organizational culture
+
+___
+
+<h2>what is culture?</h2>
+<h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+
+notes: key finding
+
+next -> what is organizational culture?
 
 ___
 
