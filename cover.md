@@ -155,7 +155,7 @@ ___
   <h4>organizational performance</h4> <!-- .element: class="fragment" -->
   <h4>software delivery performance</h4> <!-- .element: class="fragment" -->
   <h4>culture</h4> <!-- .element: class="fragment" -->
-  <Blockquote><h2>additional measures</h2></Blockquote> <!-- .element: class="fragment" -->
+  <Blockquote><h2>additional measures <!-- .element style="color:maroon" --></h2></Blockquote> <!-- .element: class="fragment" -->
   <h4>transformational leadership</h4> <!-- .element: class="fragment" -->
   <h4>loosely coupled architecture and teams</h4> <!-- .element: class="fragment" -->
   <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
@@ -193,7 +193,7 @@ ___
 
   <Blockquote><h2>software delivery performance</h2></Blockquote>
   <img class="r-stretch" data-src="resources/software-delivery-performance.png" alt="software-delivery-performance"/>
-  <p>(these are the 4 key metrics)</p> <!-- .element: class="fragment" -->
+  <p><b>(these are the 4 key metrics) <!-- .element style="color:maroon" --></b></p> <!-- .element: class="fragment" -->
 
 notes:
 
@@ -304,34 +304,37 @@ ___
 
 notes:
 
-next -> how to measure?
+next -> how to measure speed?
 
 ___
 
   <div class="r-vstack">
-    <h4>how to measure deployment frequency?</h4>
+    <h4>how to measure speed?</h4>
+    <h4><b><br></b></h4> <!-- .element: style="color:green; font-size:70%" -->
     <img class="r-stretch" data-src="resources/deployment-frequency-blank.png" alt="deployment-frequency"/>
   </div>
 
 notes:
 
-next -> speed: deployment frequency
+next -> deployment frequency
 
 ___
 
   <div class="r-vstack">
-    <h4>how to measure deployment frequency?</h4>
-    <img class="r-stretch" data-src="resources/deployment-frequency-speed.png" alt="deployment-frequency"/>
+    <h4>how to measure speed?</h4>
+    <h4><b>deployment frequency</b></h4> <!-- .element: style="color:green; font-size:70%" -->
+    <img class="r-stretch" data-src="resources/deployment-frequency-speed.png" alt="deployment-frequency"/> <!-- .element: class="fragment" -->
   </div>
 
 notes:
 
-next -> deployment frequency: survey
+next -> deployment frequency: survey question
 
 ___
 
   <div class="r-vstack">
-    <h4>how to measure deployment frequency?</h4>
+    <h4>how to measure speed?</h4>
+    <h4><b>deployment frequency</b></h4> <!-- .element: style="color:green; font-size:70%" -->
     <img class="r-stretch" data-src="resources/deployment-frequency-question.png" alt="deployment-frequency"/>
   </div>
 
@@ -342,30 +345,21 @@ next -> deployment frequency: segments
 ___
 
   <div class="r-vstack">
-    <h4>how to measure deployment frequency?</h4>
+    <h4>how to measure speed?</h4>
+    <h4><b>deployment frequency</b></h4> <!-- .element: style="color:green; font-size:70%" -->
     <img class="r-stretch" data-src="resources/deployment-frequency-segments.png" alt="deployment-frequency"/>
   </div>
 
 notes:
 
-next -> how to measure?
+next -> lead time
 
 ___
 
   <div class="r-vstack">
-    <h4>how to measure lead time?</h4>
-    <img class="r-stretch" data-src="resources/lead-time-blank.png" alt="deployment-frequency"/>
-  </div>
-
-notes:
-
-next -> speed: lead time
-
-___
-
-  <div class="r-vstack">
-    <h4>how to measure lead time?</h4>
-    <img class="r-stretch" data-src="resources/lead-time.png" alt="deployment-frequency"/>
+    <h4>how to measure speed?</h4>
+    <h4><b>lead time</b></h4> <!-- .element: style="color:green; font-size:70%" -->
+    <img class="r-stretch" data-src="resources/lead-time.png" alt="deployment-frequency"/> <!-- .element: class="fragment" -->
   </div>
 
 notes:
@@ -375,7 +369,8 @@ next -> lead time: survey
 ___
 
   <div class="r-vstack">
-    <h4>how to measure lead time?</h4>
+    <h4>how to measure speed?</h4>
+    <h4><b>lead time</b></h4> <!-- .element: style="color:green; font-size:70%" -->
     <img class="r-stretch" data-src="resources/lead-time-question.png" alt="deployment-frequency"/>
   </div>
 
@@ -386,30 +381,33 @@ next -> lead time: segments
 ___
 
   <div class="r-vstack">
-    <h4>how to measure lead time?</h4>
+    <h4>how to measure speed?</h4>
+    <h4><b>lead time</b></h4> <!-- .element: style="color:green; font-size:70%" -->
     <img class="r-stretch" data-src="resources/lead-time-segments.png" alt="deployment-frequency"/>
   </div>
 
 notes:
 
-next -> how to measure?
+next -> stability
 
 ___
 
   <div class="r-vstack">
-    <h4>how to measure time to restore service?</h4>
-    <img class="r-stretch" data-src="resources/mttr-blank.png" alt="deployment-frequency"/>
+    <h4>how to measure stability?</h4>
+    <h4><b><br></b></h4> <!-- .element: style="color:green; font-size:70%" -->
+     <img class="r-stretch" data-src="resources/mttr-blank.png" alt="deployment-frequency"/>
   </div>
 
 notes:
 
-next -> speed: mttr
+next -> mttr
 
 ___
 
   <div class="r-vstack">
-    <h4>how to measure time to restore service?</h4>
-    <img class="r-stretch" data-src="resources/mttr.png" alt="deployment-frequency"/>
+    <h4>how to measure stability?</h4>
+    <h4><b>time to restore service</b></h4> <!-- .element: style="color:maroon; font-size:70%" -->
+    <img class="r-stretch" data-src="resources/mttr.png" alt="deployment-frequency"/> <!-- .element: class="fragment" -->
   </div>
 
 notes:
@@ -419,7 +417,8 @@ next -> mttr: survey
 ___
 
   <div class="r-vstack">
-    <h4>how to measure time to restore service?</h4>
+    <h4>how to measure stability?</h4>
+    <h4><b>time to restore service</b></h4> <!-- .element: style="color:maroon; font-size:70%" -->
     <img class="r-stretch" data-src="resources/mttr-question.png" alt="deployment-frequency"/>
   </div>
 
@@ -430,19 +429,9 @@ next -> mttr: segments
 ___
 
   <div class="r-vstack">
-    <h4>how to measure time to restore service?</h4>
+    <h4>how to measure stability?</h4>
+    <h4><b>time to restore service</b></h4> <!-- .element: style="color:maroon; font-size:70%" -->
     <img class="r-stretch" data-src="resources/mttr-segments.png" alt="deployment-frequency"/>
-  </div>
-
-notes:
-
-next -> how to measure?
-
-___
-
-  <div class="r-vstack">
-    <h4>how to measure change failure rate?</h4>
-    <img class="r-stretch" data-src="resources/change-fail-rate-blank.png" alt="deployment-frequency"/>
   </div>
 
 notes:
@@ -452,8 +441,9 @@ next -> speed: mttr
 ___
 
   <div class="r-vstack">
-    <h4>how to measure change failure rate?</h4>
-    <img class="r-stretch" data-src="resources/change-fail-rate.png" alt="deployment-frequency"/>
+    <h4>how to measure stability?</h4>
+    <h4><b>change failure rate</b></h4> <!-- .element: style="color:maroon; font-size:70%" -->
+    <img class="r-stretch" data-src="resources/change-fail-rate.png" alt="deployment-frequency"/> <!-- .element: class="fragment" -->
   </div>
 
 notes:
@@ -463,7 +453,8 @@ next -> mttr: survey
 ___
 
   <div class="r-vstack">
-    <h4>how to measure change failure rate?</h4>
+    <h4>how to measure stability?</h4>
+    <h4><b>change failure rate</b></h4> <!-- .element: style="color:maroon; font-size:70%" -->
     <img class="r-stretch" data-src="resources/change-fail-rate-question.png" alt="deployment-frequency"/>
   </div>
 
@@ -474,9 +465,22 @@ next -> mttr: segments
 ___
 
   <div class="r-vstack">
-    <h4>how to measure change failure rate?</h4>
+    <h4>how to measure stability?</h4>
+    <h4><b>change failure rate</b></h4> <!-- .element: style="color:maroon; font-size:70%" -->
     <img class="r-stretch" data-src="resources/change-fail-rate-segments.png" alt="deployment-frequency"/>
   </div>
+
+notes:
+
+- the 4 key metrics are meant to be tracked together
+
+next -> balanced scorecard
+
+___
+  <br/> <!-- .element: style="color:maroon; font-size:5%" -->
+  <Blockquote><b>the 4 key metrics </b></Blockquote>
+  <img class="r-stretch" data-src="resources/balanced-scorecard.png" alt="nicole"/>
+  <h4><b>constitute a balanced scorecard <!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
@@ -493,8 +497,6 @@ notes:
 
 - the 4 key metrics are meant to be tracked together
 
-next -> PLC's DORA Dashboard
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -505,16 +507,16 @@ ___
 
 notes:
 
-- the 4 key metrics are meant to be tracked together
-
-next -> balanced scorecard
+next -> PLC's improvement
 
 ___
+<!--suppress RequiredAttributes -->
 
-  <Blockquote><b>dora dashboard is a balanced scorecard</b></Blockquote>
-  <img class="r-stretch" data-src="resources/balanced-scorecard.png" alt="nicole"/>
+  <Blockquote><b>PLC's 6-months of Improvement through Q4 2021</b></Blockquote>
 
 notes:
+
+next -> PLC's work distribution in Q2 2021
 
 next -> PLC's work distribution in Q2 2021
 
