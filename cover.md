@@ -10,7 +10,10 @@ next -> The State of DevOps Reports Home Page
 
 ___
 
-<iframe date-preload data-src="https://www.devops-research.com/research.html#reports" width="900px" height="600px"></iframe>
+<iframe date-preload data-src="https://www.devops-research.com/research.html#reports" width="900px" height="450px"></iframe>
+
+**_[https://www.devops-research.com/research.html#reports](https://www.devops-research.com/quickcheck.html#questions)_**<!--
+.element: style="font-size: 60%" -->
 
 notes:
 
@@ -77,10 +80,10 @@ ___
 <div class="r-vstack justify-between">
   <Blockquote><b>Dr. Nicole Forsgren</b></Blockquote>
   <img class="plain" width="290px" height="290px" data-src="resources/nicole.png" alt="nicole"/>
-  <p>
-   Dr. Nicole Forsgren is a Partner at Microsoft Research, where she leads <em><b>Developer Velocity Lab</b></em>.  She is best known for her work measuring the technology process.  
-  </p>
-</div>
+  <p><b>
+   Dr. Nicole Forsgren is a Partner at Microsoft Research, where she leads <em>Developer Velocity Lab</em>.  She is best known for her work measuring the technology process.<!-- .element: style="color: maroon" -->  
+  </b></p>
+</div> 
 
 notes:
 
@@ -128,23 +131,70 @@ notes:
 
 - more than 32,000 total survey responses
 
-next -> methodology
+next -> definition of devops
+
+___
+
+<br/>
+
+### DevOps
+
+<img class="r-stretch" data-src="resources/devops-definition.png" alt="placeholder"/>
+
+**_[Accelerate State of DevOps Report Results 2019](https://www.youtube.com/watch?v=Fzu5Ry5lU8c)_**<!--
+.element: style="font-size: 60%" -->
+
+notes:
+
+- explain cluster analysis
+- explain latent construct
+- explain likert-type scales
+
+next -> emphasize culture and technicialk
+
+___
+
+<br/>
+
+### DevOps
+
+<img class="r-stretch" data-src="resources/devops-definition-em.png" alt="placeholder"/>
+
+**_[Accelerate State of DevOps Report Results 2019](https://www.youtube.com/watch?v=Fzu5Ry5lU8c)_**<!--
+.element: style="font-size: 60%" -->
+
+notes:
+
+- first how to measure technical
+- then how to measure cultural
+
+- explain
+- cluster analysis
+- likert-type scales
+- psychometrics
+- latent construct
+
+next -> measures
 
 ___
 
 <div class="r-vstack">
   <Blockquote><h2>methodology</h2></Blockquote>
-  <h4>statistical segmentation</h4> <!-- .element: class="fragment" -->
-  <h4>latent constructs</h4> <!-- .element: class="fragment" -->
-  <h4>likert-type scales</h4> <!-- .element: class="fragment" -->
+  <br/>
+  <h3>statistical cluster analysis<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
+  <h3>likert-type scales<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
+  <h3>psychometrics<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
+  <h3>latent constructs<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
   <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
 </div>
 
 notes:
 
-- explain segmentation
-- explain latent construct
-- explain likert-type scales
+- measures of organizational performance
+- talk about measures of software delivery performance
+- talk about measures of organizational culture
+- explain measures of transformational leadership
+- explain measures of loosely coupled architecture and teams
 
 next -> measures
 
@@ -152,52 +202,80 @@ ___
 
 <div class="r-vstack">
   <Blockquote><h2>measures</h2></Blockquote>
-  <h4>organizational performance</h4> <!-- .element: class="fragment" -->
-  <h4>software delivery performance</h4> <!-- .element: class="fragment" -->
-  <h4>culture</h4> <!-- .element: class="fragment" -->
+  <h3>organizational performance<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
+  <h3>software delivery performance<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
+  <h3>culture<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
   <Blockquote><h2>additional measures <!-- .element style="color:maroon" --></h2></Blockquote> <!-- .element: class="fragment" -->
-  <h4>transformational leadership</h4> <!-- .element: class="fragment" -->
-  <h4>loosely coupled architecture and teams</h4> <!-- .element: class="fragment" -->
+  <h3>transformational leadership<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
+  <h3>loosely coupled architecture and teams<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
   <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
 </div>
 
 notes:
 
-next -> measures of organizational performance
+next -> measures of organizational performance are well-known
 
 ___
 
 <div class="r-vstack">
-  <Blockquote><h2>organizational performance</h2></Blockquote>
-  <h4>productivity</h4> <!-- .element: class="fragment" -->
-  <h4>profitability</h4> <!-- .element: class="fragment" -->
-  <h4>market share</h4> <!-- .element: class="fragment" -->
+  <Blockquote><h2>measures of organizational performance</h2></Blockquote>
+  <h3>productivity<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
+  <h3>profitability<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
+  <h3>market share<!-- .element: style="color:blue" --></h3> <!-- .element: class="fragment" -->
   <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
 </div>
 
-notes:
+notes: measures of organizational performance are well-known
 
-next -> software delivery performance
+next -> how to measure software delivery performance?
 
 ___
 
-  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <Blockquote><h3>how to measure software delivery performance?</h3></Blockquote>
   <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
   <p></p>
 
-notes:
+notes: next
 
 next -> 4 keys
 
 ___
 
-  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <Blockquote><h3>how to measure software delivery performance?</h3></Blockquote>
   <img class="r-stretch" data-src="resources/software-delivery-performance.png" alt="software-delivery-performance"/>
-  <p><b>(these are the 4 key metrics) <!-- .element style="color:maroon" --></b></p> <!-- .element: class="fragment" -->
+  <h4><b>(these are the 4 key metrics) <!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes: these are the 4 key metrics
+
+next -> likert-type scales
+
+___
+
+### likert-type scale clusters
+
+> #### "A Likert scale is a rating scale used to assess opinions, attitudes, or behaviors ... <br/>To collect data, you present participants with Likert-type questions or statements and a continuum of possible responses, usually with 5 or 7 items, Each item is given a numerical score so that the data can be analyzed quantitatively." <!-- .element: style="font-size: 95%; color: purple" -->
+
+**_[Designing and Analyzing a Likert Scale | Guide & Examples](https://www.scribbr.com/methodology/likert-scale/)_**<!--
+.element: style="font-size: 60%" -->
+
+notes: a survey response based on likert-type scales reduces to a single number
+that can trend
+
+next -> e.g., DORA quick-assessment
+
+___
+
+<iframe date-preload data-src="https://www.devops-research.com/quickcheck.html#questions" width="900px" height="450px"></iframe>
+
+**_[DORA Quick Assessment](https://www.devops-research.com/quickcheck.html#questions)_**<!--
+.element: style="font-size: 60%" -->
 
 notes:
 
-next -> software delivery performance ⇒organizational performance
+- this is how DORA collects data
+- this is also one way to baseline a team's software delivery performance
+
+next -> key finding: software delivery performance ⇒ organizational performance
 
 ___
 
@@ -205,17 +283,17 @@ ___
   <h4>predicts</h4> <!-- .element: style="color:maroon" -->
   <Blockquote><h2>organizational performance</h2></Blockquote>
 
-notes: key finding
+notes: key finding: software delivery performance ⇒ organizational performance
 
 next -> IT performance is statistically predictive of organizational performance
 
 ___
 
-  <Blockquote><h2>"Firms with high-performing IT organizations were twice as likely to exceed their profitability, market share and productivity goals."</h2></Blockquote>
+> ### "Firms with high-performing IT organizations were twice as likely to exceed their profitability, market share and productivity goals."<!-- .element: style="color:purple" -->
 
 notes: from State of Devops Report 2016
 
-next -> DORA prescribes a recipe for improving software delivery performance
+next -> DORA ... prescribes a recipe for improving software delivery performance
 
 ___
 
@@ -225,22 +303,14 @@ ___
 
 notes:
 
-next -> data collection
+- DORA ... prescribes a recipe for improving software delivery performance
+- it's like cooking ... as simple as following the recipe
+
+next -> results of statistical cluster analysis
 
 ___
 
-<iframe date-preload data-src="https://www.devops-research.com/quickcheck.html#questions" width="900px" height="600px"></iframe>
-
-notes:
-
-- this is how DORA collects data
-- this is also one way to baseline a team's software delivery performance
-
-next -> statistical segmentation
-
-___
-
-  <Blockquote><h2 class="r-fit-text">statistical segmentation</h2></Blockquote>
+  <Blockquote><h2 class="r-fit-text">statistical cluster analysis</h2></Blockquote>
   <div class="r-stack">
     <img class="plain r-stretch" data-src="resources/low-segment.png" alt="low"/> <!-- .element: class="fragment" -->
     <img class="plain r-stretch" data-src="resources/medium-segment.png" alt="medium"/> <!-- .element: class="fragment" -->
@@ -252,24 +322,29 @@ ___
 
 notes:
 
-- this is a statistical segmentation
+- low: low-performing teams
+- medium: medium-performing teams
+- high: high-performing teams
+- elite: elite-performing teams
+- if we don't achieve business outcomes, then we are probably low performers
 
-next -> elite performers don't trade speed for stability
+next -> elite performers ... don't trade speed for stability
 
 ___
 
   <div class="r-vstack">
     <img data-src="resources/elite.png" alt="speed-moves-with-stability"/>
     <img data-src="resources/speed-moves-with-stability.png" alt="speed-moves-with-stability"/>
-    <h4> elite performers don't trade speed for stability</h4> <!-- .element: class="fragment" -->
     <img class="r-stretch" data-src="resources/placeholder-small.png" alt="placeholder"/>
+    <h4><b>(elite performers don't trade speed for stability) <!-- .element: class="fragment" style="color:maroon; font-size:70%" --></b></h4>
   </div>
 
 notes:
 
-- speed moves with stability
+- elite performers ... don't trade speed for stability
+- speed moves with stability for elite performers
 
-next -> amazon speed
+next -> amazon doesn't trade speed
 
 ___
 
@@ -280,9 +355,11 @@ ___
 
 notes:
 
+- blow this up
+- doesn't trade speed for stability
 - this was 10 years ago...imagine now
 
-next -> google speed
+next -> google doesn't trade speed for stability
 
 ___
 
@@ -292,6 +369,9 @@ ___
   </div>
 
 notes:
+
+- blow this up
+- google doesn't trade speed for stability
 
 next -> google testing scale
 
@@ -304,7 +384,10 @@ ___
 
 notes:
 
-next -> how to measure speed?
+- blow this up
+- google testing scale
+
+next -> how to measure speed? fragment
 
 ___
 
@@ -316,7 +399,10 @@ ___
 
 notes:
 
-next -> deployment frequency
+- how to measure speed? fragment
+
+next -> deployment frequency subtitle ... speed/deployment frequency image
+fragment
 
 ___
 
@@ -328,7 +414,9 @@ ___
 
 notes:
 
-next -> deployment frequency: survey question
+- deployment frequency subtitle ... speed/deployment frequency image fragment
+
+next -> deployment frequency question fragment
 
 ___
 
@@ -340,7 +428,9 @@ ___
 
 notes:
 
-next -> deployment frequency: segments
+- deployment frequency question fragment
+
+next -> deployment frequency segment final fragment
 
 ___
 
@@ -352,7 +442,9 @@ ___
 
 notes:
 
-next -> lead time
+- deployment frequency segment final fragment
+
+next -> lead time subtitle ... speed/lead time image fragment
 
 ___
 
@@ -364,7 +456,9 @@ ___
 
 notes:
 
-next -> lead time: survey
+- lead time subtitle ... speed/lead time image fragment
+
+next -> lead time question fragment
 
 ___
 
@@ -376,7 +470,9 @@ ___
 
 notes:
 
-next -> lead time: segments
+- lead time question fragment
+
+next -> lead time segment final fragment
 
 ___
 
@@ -388,7 +484,9 @@ ___
 
 notes:
 
-next -> stability
+- lead time segment final fragment
+
+next -> how to measure stability? fragment
 
 ___
 
@@ -400,7 +498,9 @@ ___
 
 notes:
 
-next -> mttr
+- how to measure stability? fragment
+
+next -> mttr subtitle ... stability/mttr image fragment
 
 ___
 
@@ -412,7 +512,9 @@ ___
 
 notes:
 
-next -> mttr: survey
+- mttr subtitle ... stability/mttr image fragment
+
+next -> mttr question fragment
 
 ___
 
@@ -424,7 +526,9 @@ ___
 
 notes:
 
-next -> mttr: segments
+- mttr question fragment
+
+next -> mttr segment final fragment
 
 ___
 
@@ -436,7 +540,10 @@ ___
 
 notes:
 
-next -> speed: mttr
+- mttr segment final fragment
+
+next -> change failure rate subtitle ... stability/change failure rate image
+fragment
 
 ___
 
@@ -448,7 +555,9 @@ ___
 
 notes:
 
-next -> mttr: survey
+- change failure rate subtitle ... stability/change failure rate image fragment
+
+next -> change failure rate question fragment
 
 ___
 
@@ -460,7 +569,9 @@ ___
 
 notes:
 
-next -> mttr: segments
+- change failure rate question fragment
+
+next -> change failure rate segment final fragment
 
 ___
 
@@ -472,7 +583,7 @@ ___
 
 notes:
 
-- the 4 key metrics are meant to be tracked together
+- change failure rate segment final fragment
 
 next -> balanced scorecard
 
@@ -480,9 +591,9 @@ ___
   <br/> <!-- .element: style="color:maroon; font-size:5%" -->
   <Blockquote><b>the 4 key metrics </b></Blockquote>
   <img class="r-stretch" data-src="resources/balanced-scorecard.png" alt="nicole"/>
-  <h4><b>constitute a balanced scorecard <!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+  <h4><b>(constitute a balanced scorecard)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
-notes:
+notes: balanced scorecard
 
 next -> Account Manager's DORA Dashboard
 
@@ -491,10 +602,12 @@ ___
 
   <Blockquote><b>Account Manager's DORA Dashboard</b></Blockquote>
   <img class="r-stretch" data-src="resources/dora-dashboard-am.png" alt="nicole"/>
-  <p><b>2022</b></p>
+  <h4><b>(2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
 
 notes:
 
+- Account Manager's DORA Dashboard
 - the 4 key metrics are meant to be tracked together
 
 ___
@@ -502,21 +615,22 @@ ___
 
   <Blockquote><b>PLC's DORA Dashboard</b></Blockquote>
   <img class="r-stretch" data-src="resources/dora-dashboard-plc.png" alt="nicole"/>
-  <p><b>2022</b></p>
+  <h4><b>(2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 
 notes:
 
-next -> PLC's improvement
+- PLC's DORA Dashboard
+
+next -> PLC's improvement in 2021
 
 ___
-<!--suppress RequiredAttributes -->
 
-  <Blockquote><b>PLC's 6-months of Improvement through Q4 2021</b></Blockquote>
+> ## PLC's 6-months of Improvement through Q4 2021<!-- .element: style="color:purple" -->
 
 notes:
 
-next -> PLC's work distribution in Q2 2021
+- started tracking DORA metrics in the summer of 2021
 
 next -> PLC's work distribution in Q2 2021
 
@@ -525,7 +639,7 @@ ___
 
   <Blockquote><b>PLC's work distribution</b></Blockquote>
   <img class="r-stretch" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
-  <p><b>Q2 2021</b></p>
+  <h4><b>(Q2 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
@@ -538,7 +652,7 @@ ___
 
   <Blockquote><b>PLC's work distribution</b></Blockquote>
   <img class="r-stretch" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
-  <p><b>Q3 2021</b></p>
+  <h4><b>(Q3 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
@@ -551,20 +665,24 @@ ___
 
   <Blockquote><b>PLC's work distribution</b></Blockquote>
   <img class="r-stretch" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
-  <p><b>Q4 2021</b></p>
+  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
 - healthy distribution of work; spikes and rework imply innovation and learning
 
-next -> PLC's speed in Q2 2021
+next -> PLC's speed in Q1 2021
 
 ___
 <!--suppress RequiredAttributes -->
 
   <Blockquote><b>PLC's speed</b></Blockquote>
+  <br/>
   <img class="r-stretch" data-src="resources/speed-Q2.jpeg" alt="nicole"/>
-  <p><b>Q1 2021</b></p>  
+  <br/>
+  <br/>
+  <br/>
+  <h4><b>(Q1 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
@@ -576,38 +694,54 @@ ___
 <!--suppress RequiredAttributes -->
 
   <Blockquote><b>PLC's speed</b></Blockquote>
+  <br/>
   <img class="r-stretch" data-src="resources/speed-Q4.jpeg" alt="nicole"/>
-  <p><b>Q4 2021</b></p>
+  <br/>
+  <br/>
+  <br/>
+  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
 - trunk-based development
+- continuous integration and deployment
+- small batch sizes
 
-next -> PLC's throughput trending up
+- mob programming
+- pomodoro timing
+- limited WIP
+- angular
+- tailwind
+- webcomponents
+- reactive extensions
+- optimizely
+- mono repo
+
+next -> throughput trending up
 
 ___
 <!--suppress RequiredAttributes -->
 
   <Blockquote><b>PLC's throughput trending up</b></Blockquote>
   <img class="r-stretch" data-src="resources/throughput.png" alt="nicole"/>
-  <p><b>2021</b></p>
+  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
-- trunk-based development
+- throughput trending up
 
-next -> PLC's cycle time trending down
+next -> cycle time trending down
 
 ___
 <!--suppress RequiredAttributes -->
 
   <Blockquote><b>PLC's cycle time trending down</b></Blockquote>
   <img class="r-stretch" data-src="resources/cycle-time.png" alt="nicole"/>
-  <p><b>2021</b></p>
+  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
-- trunk-based development
+- cycle time trending down
 
 next -> PLC's net flow in Q2 2021
 
@@ -616,14 +750,14 @@ ___
 
   <Blockquote><b>PLC's net flow evening out</b></Blockquote>
   <img class="r-stretch" data-src="resources/net-flow.png" alt="nicole"/>
-  <p><b>2021</b></p>
+  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
-- trunk-based development
+- PLC's net flow in Q2 2021
+- slope was steeper earlier in Q3
 
-next -> organizational culture ⇒ software delivery performance ⇒ organizational
-performance
+next -> key finding:  organizational culture ⇒ software delivery performance
 
 ___
 
@@ -631,9 +765,13 @@ ___
   <h4>predicts</h4> <!-- .element: style="color:maroon" -->
   <Blockquote><h2>software delivery performance</h2></Blockquote>
 
-notes: key finding
+notes:
 
-next -> definition of organizational culture
+- organizational culture predicts software delivery performance
+- software delivery performance predicts organizational performance
+- therefore, organizational culture predicts organizational performance
+
+next -> let's define culture
 
 ___
 
@@ -646,9 +784,11 @@ ___
 **Edgar Schein, <!-- .element: style="color:maroon; font-size: 60%" -->
 _[The Corporate Culture Survival Guide](https://www.amazon.com/Corporate-Culture-Survival-Guide-Revised/dp/1511383690)_** <!-- .element: class="fragment" -->
 
-notes: key finding
+notes:
 
-next -> another definition of organizational culture
+- definition of culture
+
+next -> alternative definition of culture
 
 ___
 
@@ -664,10 +804,110 @@ _[Your Startup is Broken: Inside the Toxic Heart of Tech Culture](https://oneibm
 
 <br/>
 
+notes:
+
+- alternative definition of culture
+
+next -> organizational culture predicts software delivery performance
+
+___
+
+<br/>
+
+> ### "organizational culture is one of the strongest predictors of both IT performance and the overall performance of the organization." <!-- .element: style="color: purple" -->
+
+**_[(State of DevOps Report)](https://puppet.com/resources/report/2016-state-devops-report?ccn=devops-PMG-2016&cid=701G00000016yPn&gclid=CLHB07zSpdICFUOXfgodew4Dqw&ls=paid-search&pcnav=off&pctiles=off&pub=google&utm_campaign=devops-PMG-2016&utm_content=2016-devops-report&utm_medium=paid-search&utm_source=google)_**  <!-- .element: style="font-size: 60%" -->
+
+<br/>
+
+notes:
+
+- organizational culture predicts software delivery performance
+- you can change culture
+- (deliberately ... meticulously)
+- cannot read culture like a book
+- you can observe and naively/unscientifically infer culture
+- but you can scientifically measure culture
+
+next -> how to measure culture?
+
+___
+
+<br/>
+
+> ## how to measure organizational culture?<!-- .element: style="color: purple" -->
+
+notes:
+
+- how to measure culture?
+
+next -> psychometrics
+
+___
+
+### psychometrics
+
+> #### "Psychometrics generally refers to specialized fields within psychology and education devoted to testing, measurement, assessment, and related activities. [It] is concerned with the objective measurement of latent constructs that cannot be directly observed." <!-- .element: style="color: purple" -->
+
+**_[National Council on Measurement in Education](https://web.archive.org/web/20170722194028/http://www.ncme.org/ncme/NCME/Resource_Center/Glossary/NCME/Resource_Center/Glossary1.aspx?hkey=4bb87415-44dc-4088-9ed9-e8515326a061#anchorP)_**<!--
+.element: style="font-size: 60%" -->
+
+notes:
+
+- psychometrics
+
+next -> latent construct
+
+___
+
+### latent construct
+
+> #### "latent [constructs] ... are variables that are not directly observed but are rather inferred through a mathematical model from other variables that are observed (directly measured). Examples of latent constructs include intelligence, introversion, mental disorders, and educational achievement." <!-- .element: style="color: purple" -->
+
+**_[Using Multivariate Analysis](https://www.google.com/books/edition/Using_Multivariate_Statistics/lVtqAAAAMAAJ?hl=en&gbpv=0&kptab=morebyauthor)_**<!--
+.element: style="font-size: 60%" -->
+
+notes:
+
+- latent constructs manifest as likert-type questions
+- models have previously been validated by psycho-metricians
+- where they have not, they've been subject to rigorous analysis
+
+next -> culture survey
+
+___
+
+<br/>
+
+<iframe class="r-stretch" date-preload data-src="https://surveyjs.io/published?id=616b7d13-0868-48fa-af7a-1da046381239" width="640px" height="480px"></iframe>
+
+notes:
+
+- culture survey
+
+next -> Westrum Typology
+
+___
+
+<br/>
+
+  <Blockquote><b>Westrum Typology</b></Blockquote>
+  <img class="r-stretch" data-src="https://oneibmcloud.github.io/ibm-cloud-garage-developer-bootcamp/resources/westrum-typology.png" alt="nicole"/>
+
 notes: key finding
 
-next -> loosely coupled architecture and teams ⇒ software delivery performance ⇒
-organizational
+next -> transformational leadership
+
+___
+
+  <Blockquote><h2>transformational leadership</h2></Blockquote>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>organizational culture</h2></Blockquote>
+  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
+
+notes: key finding
+
+next -> loosely coupled architecture and teams
 
 ___
 
@@ -678,6 +918,8 @@ ___
 
 notes: key finding
 
+next -> return on investment
+
 ___
 
   <Blockquote><h2>return on investment</h2></Blockquote>
@@ -685,9 +927,11 @@ ___
 
 notes: key finding
 
+next -> how to improve?
+
 ___
 
-  <Blockquote><h2>how to improve</h2></Blockquote>
+  <Blockquote><h2>how to improve?</h2></Blockquote>
   <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
 
 notes: key finding
