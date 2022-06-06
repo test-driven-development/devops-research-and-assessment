@@ -6,16 +6,298 @@
 </blockquote>
 
 notes:
+
+- there's more to the 4 key metrics
+
 next -> PLC case study started with my tweet
 
 ___
 
-<iframe date-preload data-src="https://www.devops-research.com/research.html#reports" width="900px" height="450px"></iframe>
+<!--suppress RequiredAttributes -->
 
-**_[https://www.devops-research.com/research.html#reports](https://www.devops-research.com/quickcheck.html#questions)_**<!--
+<Blockquote><b>PLC Case Study</b></Blockquote>
+<br/>
+<img data-src="resources/CDCon.png" alt="CDCon"/>
+<br/>
+<br/>
+
+**_[https://twitter.com/wilpannell/status/1485878534572679170](https://twitter.com/wilpannell/status/1485878534572679170)_**<!--
 .element: style="font-size: 60%" -->
 
+<br/>
+
 notes:
+
+- PLC case study started with my tweet
+
+next -> Personal Lifetime Communications
+
+
+<!--suppress RequiredAttributes -->
+
+<Blockquote><b>PLC Case Study</b></Blockquote>
+<br/>
+<img data-src="resources/CDCon.png" alt="CDCon"/>
+<br/>
+<br/>
+
+**_[https://twitter.com/wilpannell/status/1485878534572679170](https://twitter.com/wilpannell/status/1485878534572679170)_**<!--
+.element: style="font-size: 60%" -->
+
+<br/>
+
+notes:
+
+- PLC case study started with my tweet
+
+next -> PLC
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+  <img class="r-stretch" data-src="resources/plc.png" alt="plc"/>
+  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- PLC
+
+next -> product visionary: tara
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+  <img class="r-stretch" data-src="resources/plc-tara.png" alt="plc"/>
+  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- product visionary: tara
+
+next -> precocious PO: eileen
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+  <img class="r-stretch" data-src="resources/plc-eileen.png" alt="plc"/>
+  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- precocious PO: eileen
+
+next -> tech lead: andrew
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+  <img class="r-stretch" data-src="resources/plc-andrew.png" alt="plc"/>
+  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- tech lead: andrew
+
+next -> the youngest dev and the front end lead: jeremy
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+  <img class="r-stretch" data-src="resources/plc-jeremy.png" alt="plc"/>
+  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- the youngest dev and the front end lead: jeremy
+
+next -> shanaz
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+  <img class="r-stretch" data-src="resources/plc-shanaz.png" alt="plc"/>
+  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- shanaz
+
+next -> together shanaz and jeremy were part of the original tiger team
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+  <img class="r-stretch" data-src="resources/plc-tiger-team.png" alt="plc"/>
+  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- together shanaz and jeremy were part of the original tiger team
+
+next -> concentrated on deployment frequency
+
+___
+<Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+
+<iframe date-preload data-src="https://humanitec.com/blog/deployment-frequency-key-metric-in-devops" width="850px" height="425px"></iframe>
+
+**_[https://humanitec.com/blog/deployment-frequency-key-metric-in-devops](https://humanitec.com/blog/deployment-frequency-key-metric-in-devops)_**<!--
+.element: style="font-size: 30%" -->
+
+<h4><b>(PLC Case Study @ CDCon
+2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- concentrated on deployment frequency
+
+next -> PLC's improvement in 2021
+
+___
+
+> ## PLC's 6-months of Improvement through Q4 2021<!-- .element: style="color:purple" -->
+
+notes:
+
+- started tracking DORA metrics in the summer of 2021
+
+next -> PLC's work distribution in Q2 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's distribution of work</b></Blockquote>
+  <img class="r-stretch" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
+  <h4><b>(Q2 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- hardly any feature work in Q2 2021
+
+next -> PLC's work distribution in Q3 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's work distribution</b></Blockquote>
+  <img class="r-stretch" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
+  <h4><b>(Q3 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- start tracking DORA at start of Q3 2021
+
+next -> PLC's work distribution in Q4 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's work distribution</b></Blockquote>
+  <img class="r-stretch" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
+  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- healthy distribution of work; spikes and rework imply innovation and learning
+
+next -> PLC's speed in Q1 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's speed</b></Blockquote>
+  <br/>
+  <img class="r-stretch" data-src="resources/speed-Q2.jpeg" alt="nicole"/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <h4><b>(Q1 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- pull requests and long-lived feature branches
+
+next -> PLC's speed in Q4 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's speed</b></Blockquote>
+  <br/>
+  <img class="r-stretch" data-src="resources/speed-Q4.jpeg" alt="nicole"/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- trunk-based development
+- continuous integration and deployment
+- small batch sizes
+
+- mob programming
+- pomodoro timing
+- limited WIP
+- angular
+- tailwind
+- webcomponents
+- reactive extensions
+- optimizely
+- mono repo
+
+next -> throughput trending up
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's throughput trending up</b></Blockquote>
+  <img class="r-stretch" data-src="resources/throughput.png" alt="nicole"/>
+  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- throughput trending up
+
+next -> cycle time trending down
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's cycle time trending down</b></Blockquote>
+  <img class="r-stretch" data-src="resources/cycle-time.png" alt="nicole"/>
+  <br/>
+  <br/>
+  <br/>
+  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- cycle time trending down
+
+next -> PLC's net flow in Q2 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's net flow evening out</b></Blockquote>
+  <img class="r-stretch" data-src="resources/net-flow.png" alt="nicole"/>
+  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- PLC's net flow in Q2 2021
+- slope was steeper earlier in Q3
+
 next -> The State of DevOps Reports Home Page
 
 ___
@@ -649,146 +931,6 @@ ___
 notes:
 
 - PLC's DORA Dashboard
-
-next -> PLC's improvement in 2021
-
-___
-
-> ## PLC's 6-months of Improvement through Q4 2021<!-- .element: style="color:purple" -->
-
-notes:
-
-- started tracking DORA metrics in the summer of 2021
-
-next -> PLC's work distribution in Q2 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
-  <h4><b>(Q2 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- hardly any feature work in Q2 2021
-
-next -> PLC's work distribution in Q3 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
-  <h4><b>(Q3 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- start tracking DORA at start of Q3 2021
-
-next -> PLC's work distribution in Q4 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
-  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- healthy distribution of work; spikes and rework imply innovation and learning
-
-next -> PLC's speed in Q1 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's speed</b></Blockquote>
-  <br/>
-  <img class="r-stretch" data-src="resources/speed-Q2.jpeg" alt="nicole"/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <h4><b>(Q1 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- pull requests and long-lived feature branches
-
-next -> PLC's speed in Q4 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's speed</b></Blockquote>
-  <br/>
-  <img class="r-stretch" data-src="resources/speed-Q4.jpeg" alt="nicole"/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- trunk-based development
-- continuous integration and deployment
-- small batch sizes
-
-- mob programming
-- pomodoro timing
-- limited WIP
-- angular
-- tailwind
-- webcomponents
-- reactive extensions
-- optimizely
-- mono repo
-
-next -> throughput trending up
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's throughput trending up</b></Blockquote>
-  <img class="r-stretch" data-src="resources/throughput.png" alt="nicole"/>
-  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- throughput trending up
-
-next -> cycle time trending down
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's cycle time trending down</b></Blockquote>
-  <img class="r-stretch" data-src="resources/cycle-time.png" alt="nicole"/>
-  <br/>
-  <br/>
-  <br/>
-  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- cycle time trending down
-
-next -> PLC's net flow in Q2 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's net flow evening out</b></Blockquote>
-  <img class="r-stretch" data-src="resources/net-flow.png" alt="nicole"/>
-  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- PLC's net flow in Q2 2021
-- slope was steeper earlier in Q3
 
 next -> key finding:  organizational culture ⇒ software delivery performance
 
