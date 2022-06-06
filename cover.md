@@ -151,8 +151,7 @@ ___
 **_[https://humanitec.com/blog/deployment-frequency-key-metric-in-devops](https://humanitec.com/blog/deployment-frequency-key-metric-in-devops)_**<!--
 .element: style="font-size: 30%" -->
 
-<h4><b>(PLC Case Study @ CDCon
-2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
 
@@ -207,48 +206,35 @@ notes:
 
 - healthy distribution of work; spikes and rework imply innovation and learning
 
-next -> PLC's innovations
+next -> PLC's innovations in 2021
 
 ___
 > ### PLC's innovations
 
+- tdd <!-- .element: style="color:maroon; font-weight:bold;  font-size:55%" -->
+- small batches <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- mob programming <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- pomodoro timing <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- limited WIP <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- consumer-driven contracts <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- service virtualization <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- trunk-based development <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- continuous deployment <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- angular <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- webcomponents <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- mono repo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- tailwind <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- reactive extensions <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- optimizely <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- medalia <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
 
-**tdd** <!-- .element: style="color:maroon; font-size:70%" -->
+<br/>
 
-**small
-batches** <!-- .element: class="fragment" style="color:maroon; font-size:70%" -->
-
-**consumer-driven
-contracts** <!-- .element: class="fragment" style="color:maroon; font-size:70%" -->
-
-**trunk-based
-development** <!-- .element: class="fragment" style="color:maroon; font-size:70%" -->
-
-**continuous integration and
-deployment** <!-- .element: class="fragment" style="color:maroon; font-size:70%" -->
-
-**tdd** <!-- .element: style="color:maroon; font-size:70%" -->
-
-**mob programming** <!-- .element: style="color:maroon; font-size:70%" -->
-
-<h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+#### (Q4 2021)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
 
 notes:
 
-- PLC's innovations
-- trunk-based development
-- continuous integration and deployment
-- small batch sizes
-
-- mob programming
-- pomodoro timing
-- limited WIP
-- angular
-- tailwind
-- webcomponents
-- reactive extensions
-- optimizely
-- mono repo
+- PLC's innovations in 2021
 
 next -> PLC's speed in Q1 2021
 
@@ -434,8 +420,7 @@ ___
 notes:
 
 - Nicole leads the science behind the DORA studies
-- has taken no prisoners in demanding credit for her leadership of DORA from her
-  misogynist detractors
+- has taken no prisoners in demanding credit for her leadership of DORA from her misogynist detractors
 
 next -> DORA / accelerate
 
@@ -607,8 +592,7 @@ ___
 **_[Designing and Analyzing a Likert Scale | Guide & Examples](https://www.scribbr.com/methodology/likert-scale/)_**<!--
 .element: style="font-size: 60%" -->
 
-notes: a survey response based on likert-type scales reduces to a single number
-that can trend
+notes: a survey response based on likert-type scales reduces to a single number that can trend
 
 next -> e.g., DORA quick-assessment
 
@@ -750,8 +734,7 @@ notes:
 
 - how to measure speed? fragment
 
-next -> deployment frequency subtitle ... speed/deployment frequency image
-fragment
+next -> deployment frequency subtitle ... speed/deployment frequency image fragment
 
 ___
 
@@ -891,8 +874,7 @@ notes:
 
 - mttr segment final fragment
 
-next -> change failure rate subtitle ... stability/change failure rate image
-fragment
+next -> change failure rate subtitle ... stability/change failure rate image fragment
 
 ___
 
