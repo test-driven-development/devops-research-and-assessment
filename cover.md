@@ -6,6 +6,16 @@
 </blockquote>
 
 notes:
+next -> PLC case study started with my tweet
+
+___
+
+<iframe date-preload data-src="https://www.devops-research.com/research.html#reports" width="900px" height="450px"></iframe>
+
+**_[https://www.devops-research.com/research.html#reports](https://www.devops-research.com/quickcheck.html#questions)_**<!--
+.element: style="font-size: 60%" -->
+
+notes:
 next -> The State of DevOps Reports Home Page
 
 ___
@@ -28,11 +38,13 @@ ___
 
 <div class="r-vstack justify-between">
   <Blockquote><b>Soo Choi</b></Blockquote>
-  <img class="plain" width="290px" height="290px" data-src="resources/soo.png" alt="soo"/>
-  <p>
-    <b>NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software</b>
-  </p>
+  <img class="r-stretch" width="290px" height="290px" data-src="resources/soo.png" alt="soo"/>
+  <h4><b>NASA, Anso Labs, OpenStack co-founder, Rackspace, Chef Software<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 
 notes:
 
@@ -48,6 +60,10 @@ ___
   <img class="plain" width="290px" height="290px" data-src="resources/jez.png" alt="jez humble"/>
   <img class="plain" data-src="resources/jez-bio.jpg" alt="jez"/>
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 
 notes:
 
@@ -65,6 +81,10 @@ ___
   <img class="plain" width="290px" height="290px" data-src="resources/gene.png" alt="gene"/>
   <img class="plain" data-src="resources/gene-bio.jpg" alt="gene"/>
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 
 notes:
 
@@ -80,10 +100,11 @@ ___
 <div class="r-vstack justify-between">
   <Blockquote><b>Dr. Nicole Forsgren</b></Blockquote>
   <img class="plain" width="290px" height="290px" data-src="resources/nicole.png" alt="nicole"/>
-  <p><b>
+  <h4><b>
    Dr. Nicole Forsgren is a Partner at Microsoft Research, where she leads <em>Developer Velocity Lab</em>.  She is best known for her work measuring the technology process.<!-- .element: style="color: maroon" -->  
-  </b></p>
+  </b></h4>
 </div> 
+<br/>
 
 notes:
 
@@ -113,7 +134,8 @@ ___
   </div>
 
 </div>
-
+<br/>
+<br/>
 notes:
 
 - Accelerate was published in 2018
@@ -126,6 +148,8 @@ ___
   <Blockquote><b>survey responses</b></Blockquote>
   <img class="plain" width="40%" height="40%" data-src="resources/respondents.png" alt="respondents"/> 
 </div>
+<br/>
+<br/>
 
 notes:
 
@@ -588,9 +612,9 @@ notes:
 next -> balanced scorecard
 
 ___
-  <br/> <!-- .element: style="color:maroon; font-size:5%" -->
   <Blockquote><b>the 4 key metrics </b></Blockquote>
   <img class="r-stretch" data-src="resources/balanced-scorecard.png" alt="nicole"/>
+  <br/>
   <h4><b>(constitute a balanced scorecard)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes: balanced scorecard
@@ -602,6 +626,8 @@ ___
 
   <Blockquote><b>Account Manager's DORA Dashboard</b></Blockquote>
   <img class="r-stretch" data-src="resources/dora-dashboard-am.png" alt="nicole"/>
+  <br/>
+  <br/>
   <h4><b>(2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 
@@ -615,6 +641,8 @@ ___
 
   <Blockquote><b>PLC's DORA Dashboard</b></Blockquote>
   <img class="r-stretch" data-src="resources/dora-dashboard-plc.png" alt="nicole"/>
+  <br/>
+  <br/>
   <h4><b>(2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 
@@ -682,6 +710,7 @@ ___
   <br/>
   <br/>
   <br/>
+  <br/>
   <h4><b>(Q1 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
@@ -696,6 +725,7 @@ ___
   <Blockquote><b>PLC's speed</b></Blockquote>
   <br/>
   <img class="r-stretch" data-src="resources/speed-Q4.jpeg" alt="nicole"/>
+  <br/>
   <br/>
   <br/>
   <br/>
@@ -737,6 +767,9 @@ ___
 
   <Blockquote><b>PLC's cycle time trending down</b></Blockquote>
   <img class="r-stretch" data-src="resources/cycle-time.png" alt="nicole"/>
+  <br/>
+  <br/>
+  <br/>
   <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
