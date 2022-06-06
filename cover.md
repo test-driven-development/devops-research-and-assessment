@@ -192,7 +192,7 @@ ___
 
 notes:
 
-- start tracking DORA at start of Q3 2021
+- started tracking DORA at start of Q3 2021
 
 next -> PLC's work distribution in Q4 2021
 
@@ -206,6 +206,49 @@ ___
 notes:
 
 - healthy distribution of work; spikes and rework imply innovation and learning
+
+next -> PLC's innovations
+
+___
+> ### PLC's innovations
+
+
+**tdd** <!-- .element: style="color:maroon; font-size:70%" -->
+
+**small
+batches** <!-- .element: class="fragment" style="color:maroon; font-size:70%" -->
+
+**consumer-driven
+contracts** <!-- .element: class="fragment" style="color:maroon; font-size:70%" -->
+
+**trunk-based
+development** <!-- .element: class="fragment" style="color:maroon; font-size:70%" -->
+
+**continuous integration and
+deployment** <!-- .element: class="fragment" style="color:maroon; font-size:70%" -->
+
+**tdd** <!-- .element: style="color:maroon; font-size:70%" -->
+
+**mob programming** <!-- .element: style="color:maroon; font-size:70%" -->
+
+<h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- PLC's innovations
+- trunk-based development
+- continuous integration and deployment
+- small batch sizes
+
+- mob programming
+- pomodoro timing
+- limited WIP
+- angular
+- tailwind
+- webcomponents
+- reactive extensions
+- optimizely
+- mono repo
 
 next -> PLC's speed in Q1 2021
 
