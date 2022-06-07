@@ -213,6 +213,7 @@ notes:
 - they were affectionately known as:
 - the tiger team
 - the lab coats represent how much learning and experimenting they did on new tech
+- they had a folder named "labs" in their repo for all their experiments
 - all I had to do was point them in a direction
 - they looked at everything as an opportunity to learn something new
 - they never wondered why something would not work
