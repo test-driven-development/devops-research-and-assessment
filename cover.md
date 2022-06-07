@@ -1458,6 +1458,20 @@ notes:
 
 - tell the NUMMI story
 
+next -> what changing culture at NUMMI shows?
+___
+> #### what changing culture at NUMMI shows?
+
+> "What my NUMMI experience taught me that was so powerful was that the way to change culture is not to first change how people think, but instead to start by changing how people behave — what they do...What changed the culture was giving employees the means by which they could successfully do their jobs. It was communicating clearly to employees what their jobs were and providing the training and tools to enable them to perform those jobs successfully."<!--
+.element: style="font-size: 75%; font-weight: bold" -->
+
+**_[How to Change a Culture: Lessons From NUMMI](https://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/)_**<!--
+.element: style="font-size: 60%" -->
+
+notes:
+
+- read slide
+
 next -> return on investment
 ___
 
