@@ -214,10 +214,9 @@ notes:
 - the tiger team
 - the lab coats represent how much learning and experimenting they did on new tech
 - all I had to do was point them in a direction
-- but they wouldn't wait for me to finish
-- they would just charge ahead and get stuff done
-- they looked at everything as an opportunity to learn
-- whatever I put in front of them they gobbled it up
+- they looked at everything as an opportunity to learn something new
+- they never wondered why something would not work
+- they wanted to see if they could make anything work
 
 next -> here's a sketch of them picking apart a UXR for the coded web page
 ___
@@ -790,9 +789,17 @@ ___
   <h4>predicts</h4> <!-- .element: style="color:maroon" -->
   <Blockquote><h2>organizational performance</h2></Blockquote>
 
+<br/>
+<br/>
+
+#### (CD is one of the strongest predictors of software delivery performance) <!-- .element: class="fragment" style="color:maroon; font-weight:bold; font-size:70%"  -->
+
 notes:
 
 - software delivery performance ⇒ organizational performance
+- (advance fragment)
+-
+- continuous delivery ⇒ software delivery performance
 
 next -> organizational culture ⇒ software delivery performance
 ___
@@ -825,7 +832,6 @@ ___
   <Blockquote><h2>loosely coupled architecture and teams</h2></Blockquote>
   <h4>predicts</h4> <!-- .element: style="color:maroon" -->
   <Blockquote><h2>software delivery performance</h2></Blockquote>
-  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
 
 notes: loosely coupled architecture and teams ⇒ software delivery performance
 
@@ -897,21 +903,22 @@ ___
 
 notes:
 
+- how to measure software delivery performance?
+-
 - (advance fragment)
-- speed
 
-next -> 4 keys
-
+next -> speed and stability
 ___
 
   <Blockquote><h3>how to measure software delivery performance?</h3></Blockquote>
   <img class="r-stretch" data-src="resources/software-delivery-performance.png" alt="software-delivery-performance"/>
   <h4><b>(these are the 4 key metrics) <!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
-notes: these are the 4 key metrics
+notes:
 
-next -> likert-type scales
+- these are the 4 key metrics
 
+next -> how are they measured?
 ___
 
 ### likert-type scale clusters
@@ -921,10 +928,13 @@ ___
 **_[Designing and Analyzing a Likert Scale | Guide & Examples](https://www.scribbr.com/methodology/likert-scale/)_**<!--
 .element: style="font-size: 60%" -->
 
-notes: a survey response based on likert-type scales reduces to a single number that can trend
+notes:
+
+- (read the slide)
+-
+- a survey response based on likert-type scales reduces to a single number that can trend
 
 next -> e.g., DORA quick-assessment
-
 ___
 
 <iframe date-preload data-src="https://www.devops-research.com/quickcheck.html#questions" width="900px" height="450px"></iframe>
@@ -939,13 +949,27 @@ notes:
 
 next -> IT performance is statistically predictive of organizational performance
 ___
+<br/>
+<br/>
+<br/>
 
 > ### "Firms with high-performing IT organizations were twice as likely to exceed their profitability, market share and productivity goals."<!-- .element: style="color:purple" -->
+>
 
-notes: from State of Devops Report 2016
+<p></p>
+<br/>
+<p></p>
+
+#### (State of Devops Report) <!-- .element: class="fragment" style="color:maroon; font-weight:bold; font-size:70%"  -->
+
+notes:
+
+- read slide
+- (advance fragment)
+-
+- from the State of Devops Report 2016
 
 next -> DORA ... prescribes a recipe for improving software delivery performance
-
 ___
 
   <Blockquote><h2>DORA</h2></Blockquote>
@@ -954,11 +978,11 @@ ___
 
 notes:
 
-- DORA ... prescribes a recipe for improving software delivery performance
+- I cannot stress this enough:
 - it's like cooking ... as simple as following the recipe
+- (advance fragment)
 
 next -> results of statistical cluster analysis
-
 ___
 
   <Blockquote><h2 class="r-fit-text">statistical cluster analysis</h2></Blockquote>
@@ -973,14 +997,18 @@ ___
 
 notes:
 
+- (advance fragment)
 - low: low-performing teams
+- (advance fragment)
 - medium: medium-performing teams
+- (advance fragment)
 - high: high-performing teams
+- (advance fragment)
 - elite: elite-performing teams
+- (advance fragment twice)
 - if we don't achieve business outcomes, then we are probably low performers
 
 next -> elite performers ... don't trade speed for stability
-
 ___
 
   <div class="r-vstack">
@@ -992,11 +1020,13 @@ ___
 
 notes:
 
+- there are 2 prongs to monitor: speed and stability
+- (advanced fragment)
+-
 - elite performers ... don't trade speed for stability
 - speed moves with stability for elite performers
 
 next -> amazon doesn't trade speed
-
 ___
 
   <div class="r-vstack">
@@ -1006,12 +1036,13 @@ ___
 
 notes:
 
-- blow this up
-- doesn't trade speed for stability
-- this was 10 years ago...imagine now
+- amazon doesn't trade speed for stability
+- deploy to production every 11.6 seconds
+- this was 10 years ago...
+- ...I don't have today's numbers...
+- ...but imagine now
 
 next -> google doesn't trade speed for stability
-
 ___
 
   <div class="r-vstack">
@@ -1021,11 +1052,11 @@ ___
 
 notes:
 
-- blow this up
 - google doesn't trade speed for stability
+- single mono repo
+- 2000 trunk-based development products deploying to production from head
 
 next -> google testing scale
-
 ___
 
   <div class="r-vstack">
@@ -1035,11 +1066,10 @@ ___
 
 notes:
 
-- blow this up
-- google testing scale
+- google doesn't trade speed for stability
+- 10 million test cases run per day
 
-next -> how to measure speed? fragment
-
+next -> how to measure speed?
 ___
 
   <div class="r-vstack">
@@ -1050,10 +1080,9 @@ ___
 
 notes:
 
-- how to measure speed? fragment
+- how to measure speed?
 
-next -> deployment frequency subtitle ... speed/deployment frequency image fragment
-
+next -> (fragment) deployment frequency
 ___
 
   <div class="r-vstack">
@@ -1064,10 +1093,12 @@ ___
 
 notes:
 
-- deployment frequency subtitle ... speed/deployment frequency image fragment
+- deployment frequency
+- lean product development proxy for batch size
+- (advance fragment
+- )
 
-next -> deployment frequency question fragment
-
+next -> (fragment) deployment frequency graphic
 ___
 
   <div class="r-vstack">
@@ -1078,7 +1109,7 @@ ___
 
 notes:
 
-- deployment frequency question fragment
+- deployment frequency graphic
 
 next -> deployment frequency segment final fragment
 
