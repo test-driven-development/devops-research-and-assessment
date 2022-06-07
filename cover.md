@@ -284,7 +284,6 @@ ___
 
 <br/>
 <br/>
-<br/>
 
 #### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
@@ -301,7 +300,6 @@ ___
 
 <img class="r-stretch" data-src="resources/speed-Q2.jpeg" alt="nicole"/>
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -332,7 +330,6 @@ ___
 <br/>
 <br/>
 <br/>
-<br/>
 
 #### (end of Q4 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
@@ -345,7 +342,7 @@ next -> throughput trending up
 ___
 > #### PLC's throughput trending up
 
-<img class="r-stretch" data-src="resources/throughput.png" alt="nicole"/>
+<img class="contains" data-src="resources/throughput.png" alt="nicole"/>
 
 #### (all of 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
@@ -357,9 +354,8 @@ next -> cycle time trending down
 ___
 > #### PLC's cycle time trending down
 
-<img class="r-stretch" data-src="resources/cycle-time.png" alt="nicole"/>
+<img class="r-contains" data-src="resources/cycle-time.png" alt="nicole"/>
 
-<br/>
 <br/>
 <br/>
 
@@ -427,26 +423,23 @@ next -> all this led to PLC's 2021 Q3 and Q4 innovations
 ___
 > #### PLC's innovations
 
-- tdd <!-- .element: style="color:maroon; font-weight:bold;  font-size:60%" -->
-- small batches <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:60%" -->
-- mob programming <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- pomodoro timing <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- limited WIP <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- consumer-driven contracts <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- service virtualization <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- trunk-based development <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:60%" -->
-- continuous deployment <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:60%" -->
-- angular <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- webcomponents <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- mono repo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- tailwind <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- reactive extensions <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- optimizely <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- medalia <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-- new working software every product demo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
-
-<br/>
-<br/>
+- tdd <!-- .element: style="color:maroon; font-weight:bold;  font-size:55%" -->
+- small batches <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- mob programming <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- pomodoro timing <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- limited WIP <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- consumer-driven contracts <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- service virtualization <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- trunk-based development <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- continuous deployment <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- angular <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- webcomponents <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- mono repo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- tailwind <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- reactive extensions <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- optimizely <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- medalia <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- new working software every product demo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
 
 #### (end of Q4 2021)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
 
@@ -475,8 +468,6 @@ in ~2 weeks saved ~$3K in service calls <!-- .element: class="fragment"  style="
 
 additional savings in manual process automation <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:90%" -->
 
-<br/>
-<br/>
 <p></p>
 <br/>
 
@@ -489,8 +480,6 @@ notes:
 next -> another impact of this product
 ___
 > #### PLC's bottom-line impact
-
-<br/>
 
 ![]()<!-- .element: class="contains" width="70%" height="70%" data-src="resources/state-to-state-bottom-line-impacts.png" alt="impact" -->
 
@@ -511,8 +500,6 @@ next -> mileage calculator widget
 ___
 > #### PLC's bottom-line impact
 
-<br/>
-
 ![]()<!-- .element: class="contains" width="70%" height="70%" data-src="resources/a-b-test.png" alt="a/b" -->
 
 <br/>
@@ -527,8 +514,6 @@ notes:
 next -> mileage calculator business impact
 ___
 > #### PLC's bottom-line impact
-
-<br/>
 
 Mileage Calculator Widget A/B Test <!-- .element: style="color:maroon; font-weight:bold;  font-size:90%" -->
 
