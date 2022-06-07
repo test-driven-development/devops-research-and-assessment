@@ -766,6 +766,86 @@ notes:
 -
 - the science is peer-reviewed and the findings are significant
 
+next -> agenda: what the science predicts about behavior
+___
+> ### Agenda
+
+- PLC case study <!-- .element: style="color:#e0dfe4; font-weight:bold;" -->
+- origins and authors of the study <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the science <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- what it predicts about behavior <!-- .element: style="color:maroon; font-weight:bold;  " -->
+- the measures <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- culture <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- transformational leadership <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- loosely coupled architecture and teams <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+
+notes:
+
+- what the science predicts about behavior
+
+next -> software delivery performance ⇒ organizational performance
+___
+
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>organizational performance</h2></Blockquote>
+
+notes:
+
+- software delivery performance ⇒ organizational performance
+
+next -> organizational culture ⇒ software delivery performance
+___
+
+  <Blockquote><h2>organizational culture</h2></Blockquote>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+
+notes:
+
+- organizational culture predicts software delivery performance
+- software delivery performance predicts organizational performance
+- (see previous slide)
+- therefore, organizational culture predicts organizational performance
+
+next -> transformational leadership ⇒ organizational culture
+___
+
+  <Blockquote><h2>transformational leadership</h2></Blockquote>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>organizational culture</h2></Blockquote>
+
+notes:
+
+- transformational leadership ⇒ organizational culture
+
+next -> loosely coupled architecture and teams ⇒ software delivery performance
+___
+
+  <Blockquote><h2>loosely coupled architecture and teams</h2></Blockquote>
+  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
+  <Blockquote><h2>software delivery performance</h2></Blockquote>
+  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
+
+notes: loosely coupled architecture and teams ⇒ software delivery performance
+
+next -> agenda: measures of performance
+___
+> ### Agenda
+
+- PLC case study <!-- .element: style="color:#e0dfe4; font-weight:bold;" -->
+- origins and authors of the study <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the science <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- what it predicts about behavior <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the measures <!-- .element: style="color:maroon; font-weight:bold;  " -->
+- culture <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- transformational leadership <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- loosely coupled architecture and teams <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+
+notes:
+
+- measures of performance
+
 next -> measures
 ___
 
@@ -857,18 +937,7 @@ notes:
 - this is how DORA collects data
 - this is also one way to baseline a team's software delivery performance
 
-next -> key finding: software delivery performance ⇒ organizational performance
-
-___
-
-  <Blockquote><h2>software delivery performance</h2></Blockquote>
-  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
-  <Blockquote><h2>organizational performance</h2></Blockquote>
-
-notes: key finding: software delivery performance ⇒ organizational performance
-
 next -> IT performance is statistically predictive of organizational performance
-
 ___
 
 > ### "Firms with high-performing IT organizations were twice as likely to exceed their profitability, market share and productivity goals."<!-- .element: style="color:purple" -->
@@ -1206,20 +1275,6 @@ notes:
 
 - PLC's DORA Dashboard
 
-next -> key finding:  organizational culture ⇒ software delivery performance
-
-___
-
-  <Blockquote><h2>organizational culture</h2></Blockquote>
-  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
-  <Blockquote><h2>software delivery performance</h2></Blockquote>
-
-notes:
-
-- organizational culture predicts software delivery performance
-- software delivery performance predicts organizational performance
-- therefore, organizational culture predicts organizational performance
-
 next -> let's define culture
 
 ___
@@ -1258,7 +1313,6 @@ notes:
 - alternative definition of culture
 
 next -> organizational culture predicts software delivery performance
-
 ___
 
 <br/>
@@ -1280,7 +1334,6 @@ notes:
 
 next -> how to measure culture?
 
-___
 
 <br/>
 
@@ -1291,7 +1344,6 @@ notes:
 - how to measure culture?
 
 next -> psychometrics
-
 ___
 
 ### psychometrics
@@ -1306,7 +1358,6 @@ notes:
 - psychometrics
 
 next -> latent construct
-
 ___
 
 ### latent construct
@@ -1323,7 +1374,6 @@ notes:
 - where they have not, they've been subject to rigorous analysis
 
 next -> culture survey
-
 ___
 
 <br/>
@@ -1335,7 +1385,6 @@ notes:
 - culture survey
 
 next -> Westrum Typology
-
 ___
 
 <br/>
@@ -1345,30 +1394,7 @@ ___
 
 notes: key finding
 
-next -> transformational leadership
-
-___
-
-  <Blockquote><h2>transformational leadership</h2></Blockquote>
-  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
-  <Blockquote><h2>organizational culture</h2></Blockquote>
-  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
-
-notes: key finding
-
-next -> loosely coupled architecture and teams
-
-___
-
-  <Blockquote><h2>loosely coupled architecture and teams</h2></Blockquote>
-  <h4>predicts</h4> <!-- .element: style="color:maroon" -->
-  <Blockquote><h2>software delivery performance</h2></Blockquote>
-  <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
-
-notes: key finding
-
 next -> return on investment
-
 ___
 
   <Blockquote><h2>return on investment</h2></Blockquote>
@@ -1377,13 +1403,9 @@ ___
 notes: key finding
 
 next -> how to improve?
-
 ___
 
   <Blockquote><h2>how to improve?</h2></Blockquote>
   <p><b>(pending)</b></p> <!-- .element: style="color:maroon" -->
 
 notes: key finding
-
-
-
