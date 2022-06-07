@@ -7,51 +7,76 @@
 
 notes:
 
-- there's more to the 4 key metrics
+- pause for fragment
+- some folk talk about the 4-keys in isolation as if that's all there is to it
+- emphasize that there's **_way way_** more to DORA than just the 4 key metrics
+- I wish to stress that it's a systematic behavioral improvement system
+- improvements can be deliberately planned and measured
+- any Ford Credit stream-aligned, platform or enabling team can do it
 
-next -> PLC case study started with my tweet
+next -> describe how the PLC case study started with my tweet
+___
+<!--suppress RequiredAttributes -->
 
+<Blockquote><b>Where we Ended Up</b></Blockquote>
+<br/>
+<img data-src="resources/CDCon.png" alt="CDCon"/>
+<br/>
+<br/>
+
+[**_https://twitter.com/wilpannell/status/1485878534572679170_**](https://twitter.com/wilpannell/status/1485878534572679170)<!--
+.element: style="font-size: 60%" -->
+
+<br/>
+
+notes:
+
+- I'd been working with the Google opensource 4-keys project
+- Google saw my tweet
+- (open the link to the tweet in a new tab)
+- asked if they could present the PLC Case Study at CDcon
+
+next -> start with the agenda
 ___
 
-<!--suppress RequiredAttributes -->
+> ### Agenda
 
-<Blockquote><b>PLC Case Study</b></Blockquote>
-<br/>
-<img data-src="resources/CDCon.png" alt="CDCon"/>
-<br/>
-<br/>
-
-**_[https://twitter.com/wilpannell/status/1485878534572679170](https://twitter.com/wilpannell/status/1485878534572679170)_**<!--
-.element: style="font-size: 60%" -->
-
-<br/>
-
-notes:
-
-- PLC case study started with my tweet
-
-next -> Personal Lifetime Communications
-
-
-<!--suppress RequiredAttributes -->
-
-<Blockquote><b>PLC Case Study</b></Blockquote>
-<br/>
-<img data-src="resources/CDCon.png" alt="CDCon"/>
-<br/>
-<br/>
-
-**_[https://twitter.com/wilpannell/status/1485878534572679170](https://twitter.com/wilpannell/status/1485878534572679170)_**<!--
-.element: style="font-size: 60%" -->
-
-<br/>
+- PLC case study <!-- .element: style="color:maroon; font-weight:bold;" -->
+- origins of the study <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
+- the authors <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
+- the science <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
+- what it predicts about behavior <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
+- the measures <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
+- culture <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
+- transformational leadership <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
+- loosely coupled architecture and teams <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
 
 notes:
 
-- PLC case study started with my tweet
+- pause for fragment
+- start with the PLC Case Study
+- walk through the table of contents
+- stress what's most important is what the science predicts about behavior
 
-next -> PLC
+next -> start with the PLC Case Study
+___
+> ### Table of Contents
 
+- PLC case study <!-- .element: style="color:maroon; font-weight:bold;" -->
+- origins of the study <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the authors <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the science <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- what it predicts about behavior <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the measures <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- culture <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- transformational leadership <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- loosely coupled architecture and teams <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+
+notes:
+
+- item: PLC case study
+
+next -> starts with PLC
 ___
 <!--suppress RequiredAttributes -->
 
@@ -64,7 +89,6 @@ notes:
 - PLC
 
 next -> product visionary: tara
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -77,7 +101,6 @@ notes:
 - product visionary: tara
 
 next -> precocious PO: eileen
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -90,7 +113,6 @@ notes:
 - precocious PO: eileen
 
 next -> tech lead: andrew
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -103,7 +125,6 @@ notes:
 - tech lead: andrew
 
 next -> the youngest dev and the front end lead: jeremy
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -116,7 +137,6 @@ notes:
 - the youngest dev and the front end lead: jeremy
 
 next -> shanaz
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -129,7 +149,6 @@ notes:
 - shanaz
 
 next -> together shanaz and jeremy were part of the original tiger team
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -158,7 +177,6 @@ notes:
 - concentrated on deployment frequency
 
 next -> PLC's improvement in 2021
-
 ___
 
 > ## PLC's 6-months of Improvement through Q4 2021<!-- .element: style="color:purple" -->
@@ -166,75 +184,6 @@ ___
 notes:
 
 - started tracking DORA metrics in the summer of 2021
-
-next -> PLC's work distribution in Q2 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's distribution of work</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
-  <h4><b>(Q2 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- hardly any feature work in Q2 2021
-
-next -> PLC's work distribution in Q3 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
-  <h4><b>(Q3 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- started tracking DORA at start of Q3 2021
-
-next -> PLC's work distribution in Q4 2021
-
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
-  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
-
-notes:
-
-- healthy distribution of work; spikes and rework imply innovation and learning
-
-next -> PLC's innovations in 2021
-
-___
-> ### PLC's innovations
-
-- tdd <!-- .element: style="color:maroon; font-weight:bold;  font-size:55%" -->
-- small batches <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
-- mob programming <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- pomodoro timing <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- limited WIP <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- consumer-driven contracts <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- service virtualization <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- trunk-based development <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
-- continuous deployment <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
-- angular <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- webcomponents <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- mono repo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- tailwind <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- reactive extensions <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- optimizely <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- medalia <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-
-<br/>
-
-#### (Q4 2021)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
-
-notes:
-
-- PLC's innovations in 2021
 
 next -> PLC's speed in Q1 2021
 
@@ -251,10 +200,12 @@ ___
   <h4><b>(Q1 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
 
 notes:
+reasons why we moved so slow?
 
-- pull requests and long-lived feature branches
+- pull requests and
+- long-lived feature branches
 
-next -> PLC's speed in Q4 2021
+next -> PLC's speed increased dramatically in Q4 2021
 
 ___
 <!--suppress RequiredAttributes -->
@@ -270,19 +221,7 @@ ___
 
 notes:
 
-- trunk-based development
-- continuous integration and deployment
-- small batch sizes
-
-- mob programming
-- pomodoro timing
-- limited WIP
-- angular
-- tailwind
-- webcomponents
-- reactive extensions
-- optimizely
-- mono repo
+- proxies for thoughput and batch size
 
 next -> throughput trending up
 
@@ -326,6 +265,96 @@ notes:
 
 - PLC's net flow in Q2 2021
 - slope was steeper earlier in Q3
+
+next -> PLC's work distribution in Q2 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's distribution of work</b></Blockquote>
+  <img class="r-stretch" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
+  <h4><b>(Q2 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- hardly any feature work in Q2 2021
+
+next -> PLC's work distribution in Q3 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's work distribution</b></Blockquote>
+  <img class="r-stretch" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
+  <h4><b>(Q3 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- started tracking DORA at start of Q3 2021
+
+next -> PLC's work distribution in Q4 2021
+
+___
+<!--suppress RequiredAttributes -->
+
+  <Blockquote><b>PLC's work distribution</b></Blockquote>
+  <img class="r-stretch" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
+  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+
+notes:
+
+- healthy distribution of work; spikes and rework imply innovation and learning
+
+next -> all this led to PLC's innovations in 2021
+
+___
+> ### PLC's innovations
+
+- tdd <!-- .element: style="color:maroon; font-weight:bold;  font-size:55%" -->
+- small batches <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- mob programming <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- pomodoro timing <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- limited WIP <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- consumer-driven contracts <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- service virtualization <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- trunk-based development <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- continuous deployment <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
+- angular <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- webcomponents <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- mono repo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- tailwind <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- reactive extensions <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- optimizely <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- medalia <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+
+<br/>
+
+#### (Q4 2021)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
+
+notes:
+
+- PLC's long list of innovations in 2021
+
+next -> PLC's business impact
+
+___
+> ### PLC's business impact
+
+![]()<!-- .element: width="660px" height="370px" data-src="resources/state-to-state-bottom-line-impacts.png" alt="impact" -->
+
+<br/>
+<br/>
+<br/>
+
+#### (2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
+
+notes:
+
+- May's what-the-heck
+- in 1 interation
+- shipped
+- got feedback regarding a misunderstood feature
+- released a fix in a day
 
 next -> The State of DevOps Reports Home Page
 
