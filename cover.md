@@ -7,10 +7,11 @@
 
 notes:
 
-- pause for fragment
 - some folk talk about the 4-keys in isolation as if that's all there is to it
+- (advance fragment)
 - emphasize that there's **_way way_** more to DORA than just the 4 key metrics
-- I wish to stress that it's a systematic behavioral improvement system
+- it's a systematic behavioral improvement system
+-
 - improvements can be deliberately planned and measured
 - any Ford Credit stream-aligned, platform or enabling team can do it
 
@@ -32,7 +33,7 @@ notes:
 - I'd been working with the Google opensource 4-keys project
 - Google saw my tweet
 - (open the link to the tweet in a new tab)
-- asked if they could present the PLC Case Study at CDcon
+- they asked if they could present the PLC Case Study at CDcon
 
 next -> start with the agenda
 ___
@@ -52,10 +53,11 @@ ___
 
 notes:
 
-- pause for fragment
-- start with the PLC Case Study
+- let's start with the PLC Case Study
+- (advance fragment)
 - walk through the table of contents
-- stress what's most important is what the science predicts about behavior
+-
+- what's most important is what the science predicts about behavior
 
 next -> start with the PLC Case Study
 ___
@@ -75,7 +77,7 @@ ___
 
 notes:
 
-- item: PLC case study
+- I wish to start with the PLC case study
 
 next -> starts with PLC
 ___
@@ -99,11 +101,13 @@ ___
 
 notes:
 
-- tara is a group product owner in Julien's organization
-- she can offer a stream of consciousness of great product ideas
-- all of which sound like they can make money
+- tara
+-
+- is a group product owner in Julien's organization
+- she's a font of stream of consciousness of great product ideas
+- everyone of which sounds like they can make good money
 
-next -> there's our precocious PO
+next -> is our precocious PO
 ___
 > #### Personal Lifetime Communications
 
@@ -113,24 +117,32 @@ ___
 
 notes:
 
-- eileen was a first-time product owner from the customer service organization
+- eileen
+-
+- was a first-time product owner from the customer service organization
 - she has a dynamic relationship with her developers
 - she joins them throughout the day in the mobs in the team room
 - she participates in their end-of-day ceremony (better than the scrum retros)
-- here's an example of the specs she wrote in her first month as
 
-next -> these are the kinds of specs she wrote in her first month or two
+next -> here's an example of the specs she wrote in her first month as a brand-new PO
 ___
 > #### Personal Lifetime Communications
 
-![]()<!-- .element: class="contains" data-src="resources/plc-specs-for-mileage-calculator.jpg" alt="specs"" -->
+![]()<!-- .element: class="contains" width="91%" height="91%" data-src="resources/plc-specs-for-mileage-calculator.jpg" alt="specs"" -->
 
 #### (PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" -->
 
 notes:
 
-- among the best specs I've seen
-- let me zoom in
+- among the best specs I've seen by **_ANY_** PO
+- notice all the complexity
+- there wasn't enough room on the slide for all the cases
+-
+- (zoom in)
+- the groups on the right
+- the visual display targets
+- the variation in the columns
+- she made it easy to test-drive
 
 next -> back to eileen
 ___
@@ -142,7 +154,9 @@ ___
 
 notes:
 
-- that was eileen: precocious
+- that was eileen:
+
+- precocious
 
 next -> andrew
 ___
@@ -154,7 +168,9 @@ ___
 
 notes:
 
-- andrew is the tech lead and the oldest surviving member of the core team
+- andrew
+- the tech lead
+- the oldest surviving member of the core team
 
 next -> the youngest dev and the front end lead: jeremy
 ___
@@ -166,10 +182,11 @@ ___
 
 notes:
 
-- this was jeremy's first job out of college
+- jeremy
+- first job out of college
 - super smart
-- even remembers stuff from when he was 2.5 years old
-- knew his stuff so well on the web platform that everyone followed him
+- even remembers stuff from when he was 2½ years old
+- knew the web platform so well on that everyone followed him
 - including me
 
 next -> shanaz
@@ -182,7 +199,9 @@ ___
 
 notes:
 
-- she set the standard that prevails to this day of committing code to prod on day 1
+- shanaz
+- set the standard that prevails to this day:
+- new hires commit code to production on their very first day
 - shanaz came in along with jeremy in a cohort of 3 young first-time devs
 
 next -> the original tiger team
@@ -195,11 +214,16 @@ ___
 
 notes:
 
-- I named the 3 of them together as the tiger team
-- all I had to do was point them in a direction and they wouldn't wait for me to finish
+- they were affectionately known as:
+- the tiger team
+- the lab coats represent how much learning and experimenting they did on new tech
+- all I had to do was point them in a direction
+- but they wouldn't wait for me to finish
 - they would just charge ahead and get stuff done
+- they looked at everything as an opportunity to learn
+- whatever I put in front of them they gobbled it up
 
-next -> here's a sketch of them picking apart the UXR for regions on the coded page
+next -> here's a sketch of them picking apart a UXR for the coded web page
 ___
 > #### Personal Lifetime Communications
 
@@ -211,9 +235,10 @@ notes:
 
 - it was a pleasure to watch them work
 - real camaraderie
-- constant dialog
-- all their cursors moving concurrently yet in unison
-- let me zoom in
+- continual repartee
+- in Miro, all their cursors moving concurrently toward a shared objective
+-
+- (zoom in)
 
 next -> that's PLC
 ___
@@ -225,7 +250,10 @@ ___
 
 notes:
 
+- that's PLC
 - a great young team
+- their case study went live at CDcon on Tuesday (6/7)
+- so, what's their case study?
 
 next -> what they did was look strictly at deployment frequency
 ___
@@ -241,171 +269,199 @@ ___
 
 notes:
 
-- link was courtesy of Sajid Mohammed
+- (link was courtesy of Sajid Mohammed)
+-
+- they looked strictly at deployment frequency
 
-next -> PLC's improvement in 2021
+next -> they made the following improvements in the last 2 quarters of 2021
 ___
+> #### Personal Lifetime Communications
+
+<br/>
+<br/>
 
 > ## PLC's 6-months of Improvement through Q4 2021<!-- .element: style="color:purple" -->
+
+<br/>
+<br/>
+<br/>
+
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
 - started tracking DORA metrics in the summer of 2021
+- used the open source Google four keys project
 
-next -> PLC's speed in Q1 2021
-
+next -> PLC's speed end of Q2 2021
 ___
-<!--suppress RequiredAttributes -->
+> #### PLC's speed
 
-  <Blockquote><b>PLC's speed</b></Blockquote>
-  <br/>
-  <img class="r-stretch" data-src="resources/speed-Q2.jpeg" alt="nicole"/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <h4><b>(Q1 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<br/>
+
+<img class="r-stretch" data-src="resources/speed-Q2.jpeg" alt="nicole"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### (end of Q2 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
+
+- they were **_slow_**
+- only 1 demo of new working software the whole 2nd quarter
+- it took them weeks and months to deploy new working software
+- excruciating to watch
+
 reasons why we moved so slow?
 
-- pull requests and
+- pull requests
 - long-lived feature branches
+- extremely large batches of work
 
-next -> PLC's speed increased dramatically in Q4 2021
-
+next -> watch what happened at the end of Q4 2021
 ___
-<!--suppress RequiredAttributes -->
+> #### PLC's speed
 
-  <Blockquote><b>PLC's speed</b></Blockquote>
-  <br/>
-  <img class="r-stretch" data-src="resources/speed-Q4.jpeg" alt="nicole"/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<br/>
+
+<img class="r-stretch" data-src="resources/speed-Q4.jpeg" alt="nicole"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### (end of Q4 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
-- proxies for thoughput and batch size
+- now they're deploying new working software to production multiple times per day
 
 next -> throughput trending up
 
 ___
-<!--suppress RequiredAttributes -->
+> #### PLC's throughput trending up
 
-  <Blockquote><b>PLC's throughput trending up</b></Blockquote>
-  <img class="r-stretch" data-src="resources/throughput.png" alt="nicole"/>
-  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/throughput.png" alt="nicole"/>
+
+#### (all of 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
 - throughput trending up
 
 next -> cycle time trending down
-
 ___
-<!--suppress RequiredAttributes -->
+> #### PLC's cycle time trending down
 
-  <Blockquote><b>PLC's cycle time trending down</b></Blockquote>
-  <img class="r-stretch" data-src="resources/cycle-time.png" alt="nicole"/>
-  <br/>
-  <br/>
-  <br/>
-  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/cycle-time.png" alt="nicole"/>
+
+<br/>
+<br/>
+<br/>
+
+#### (all of 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
 - cycle time trending down
 
 next -> PLC's net flow in Q2 2021
-
 ___
-<!--suppress RequiredAttributes -->
+> #### PLC's net flow stabilizing
 
-  <Blockquote><b>PLC's net flow evening out</b></Blockquote>
-  <img class="r-stretch" data-src="resources/net-flow.png" alt="nicole"/>
-  <h4><b>(2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<br/>
+
+<img class="r-stretch" data-src="resources/net-flow.png" alt="nicole"/>
+
+#### (all of 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
-- PLC's net flow in Q2 2021
-- slope was steeper earlier in Q3
+- net flow is a measure of finishing what's started
+- slope was steeper earlier in the year
 
-next -> PLC's work distribution in Q2 2021
-
+next -> PLC's distribution of work in Q2 2021
 ___
-<!--suppress RequiredAttributes -->
+> #### PLC's distribution of work
 
-  <Blockquote><b>PLC's distribution of work</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
-  <h4><b>(Q2 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/work-distribution-Q2.jpeg" alt="nicole"/>
+
+#### (Q2 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
 - hardly any feature work in Q2 2021
+- dominated by non-value added compliance work
 
-next -> PLC's work distribution in Q3 2021
-
+next -> work distribution improved in Q3 2021
 ___
-<!--suppress RequiredAttributes -->
+> #### PLC's distribution of work
 
-  <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
-  <h4><b>(Q3 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/work-distribution-Q3.jpeg" alt="nicole"/>
+
+#### (Q3 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
-- started tracking DORA at start of Q3 2021
+- marked improvement in new feature work
+- emerging indication of all the experimenting and learning
 
 next -> PLC's work distribution in Q4 2021
-
 ___
-<!--suppress RequiredAttributes -->
+> #### PLC's distribution of work
 
-  <Blockquote><b>PLC's work distribution</b></Blockquote>
-  <img class="r-stretch" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
-  <h4><b>(Q4 2021)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/work-distribution-Q4.jpeg" alt="nicole"/>
+
+#### (Q4 2021) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
-- healthy distribution of work; spikes and rework imply innovation and learning
+- healthy distribution of work
+- spikes and rework imply innovation and learning
 
-next -> all this led to PLC's innovations in 2021
-
+next -> all this led to PLC's 2021 Q3 and Q4 innovations
 ___
-> ### PLC's innovations
+> #### PLC's innovations
 
-- tdd <!-- .element: style="color:maroon; font-weight:bold;  font-size:55%" -->
-- small batches <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
-- mob programming <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- pomodoro timing <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- limited WIP <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- consumer-driven contracts <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- service virtualization <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- trunk-based development <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
-- continuous deployment <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:55%" -->
-- angular <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- webcomponents <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- mono repo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- tailwind <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- reactive extensions <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- optimizely <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
-- medalia <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:55%" -->
+- tdd <!-- .element: style="color:maroon; font-weight:bold;  font-size:60%" -->
+- small batches <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:60%" -->
+- mob programming <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- pomodoro timing <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- limited WIP <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- consumer-driven contracts <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- service virtualization <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- trunk-based development <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:60%" -->
+- continuous deployment <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:60%" -->
+- angular <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- webcomponents <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- mono repo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- tailwind <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- reactive extensions <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- optimizely <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- medalia <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
+- new working software every product demo <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:60%" -->
 
 <br/>
+<br/>
 
-#### (Q4 2021)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
+#### (end of Q4 2021)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
 
 notes:
 
 - PLC's long list of innovations in 2021
+- start w/ tdd
+-
+- (advance fragment)
+- set goal of not missing any bi-weekly group product demo
+- only missed one so far this year
 
 next -> PLC's business impact
-
 ___
-> ### PLC's business impact
+> #### PLC's business impact
 
 ![]()<!-- .element: width="660px" height="370px" data-src="resources/state-to-state-bottom-line-impacts.png" alt="impact" -->
 
