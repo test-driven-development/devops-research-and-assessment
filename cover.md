@@ -1483,6 +1483,17 @@ notes:
 
 - read slide
 
+next -> how do we change our culture?
+___
+
+  <Blockquote><b>how do we change our culture?</b></Blockquote>
+  <img class="contain" width="30%" height="30%" data-src="resources/unlearn.jpg" alt="unlearn"/>
+
+notes:
+
+- unlearn the things preventing us from discovering what's new
+- follow the DORA recipe and do things differently
+
 next -> return on investment
 ___
 
