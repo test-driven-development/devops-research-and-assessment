@@ -39,11 +39,8 @@ next -> start with the agenda
 ___
 > ### Agenda
 
-<br/>
-
 - PLC case study <!-- .element: style="color:maroon; font-weight:bold;" -->
-- origins of the study <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
-- the authors <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
+- origins and authors of the study <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
 - the science <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
 - what it predicts about behavior <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
 - the measures <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
@@ -66,8 +63,7 @@ ___
 <br/>
 
 - PLC case study <!-- .element: style="color:maroon; font-weight:bold;" -->
-- origins of the study <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
-- the authors <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- origins and authors of the study <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
 - the science <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
 - what it predicts about behavior <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
 - the measures <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
@@ -534,9 +530,26 @@ OKR actual: 11% <!-- .element: class="fragment"  style="color:maroon; font-weigh
 
 notes:
 
-- state-to-state transfer
+- mileage calculator business impacts
 
-next -> another impact of this product
+next -> agenda: origins of the study
+___
+> ### Agenda
+
+- PLC case study <!-- .element: style="color:#e0dfe4; font-weight:bold;" -->
+- origins and authors of the study <!-- .element: style="color:maroon; font-weight:bold;  " -->
+- the science <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- what it predicts about behavior <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the measures <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- culture <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- transformational leadership <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- loosely coupled architecture and teams <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+
+notes:
+
+- the study's origins
+
+next -> devops reports
 ___
 
 <iframe date-preload data-src="https://www.devops-research.com/research.html#reports" width="900px" height="450px"></iframe>
@@ -546,12 +559,13 @@ ___
 
 notes:
 
+- (scroll in iframe)
+-
 - started in 2012 @ puppet labs
 - years 2014-2021 found ons cloud.google.com/devops-reports
 - 2020 missing due to the pandemic
 
-next -> started in 2012 with Soo Choi
-
+next -> originated in 2012 with Soo Choi
 ___
 <!--suppress RequiredAttributes -->
 
@@ -570,7 +584,6 @@ notes:
 - Soo Choi started the DevOps surveys @ puppet labs in 2012
 
 next -> Jez Humble
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -591,7 +604,6 @@ notes:
 - published 2nd edition of the DevOps Handbook last year
 
 next -> Gene
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -612,7 +624,6 @@ notes:
 - also joined the DevOps surveys @ puppet labs in 2014
 
 next -> Nicole
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -627,11 +638,12 @@ ___
 
 notes:
 
-- Nicole leads the science behind the DORA studies
-- has taken no prisoners in demanding credit for her leadership of DORA from her misogynist detractors
+- Nicole is the consensus lead scientist of the DORA studies
+- you know about the misogynist detractors in tech?
+- if that's you, them my advice: don't bump into Nicole in a dark alley
+- the internet is strewn with the remains of tech bros who tried to impugn her work
 
 next -> DORA / accelerate
-
 ___
 <!--suppress RequiredAttributes -->
 
@@ -654,12 +666,32 @@ ___
 </div>
 <br/>
 <br/>
+
 notes:
 
+- (advance fragments)
+-
 - Accelerate was published in 2018
+- by Nicole, with Jez and Gene, and contributions by Soo
+
+next -> agenda: the science
+___
+> ### Agenda
+
+- PLC case study <!-- .element: style="color:#e0dfe4; font-weight:bold;" -->
+- origins and authors of the study <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the science <!-- .element: style="color:maroon; font-weight:bold;  " -->
+- what it predicts about behavior <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the measures <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- culture <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- transformational leadership <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- loosely coupled architecture and teams <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+
+notes:
+
+- the science
 
 next -> survey responses
-
 ___
 
 <div class="r-vstack justify-between">
@@ -672,9 +704,11 @@ ___
 notes:
 
 - more than 32,000 total survey responses
+- notice the diminishing number of responses over time
+- Jez says it's due to diminishing engagement
+- but the lower level of responses is statistically insignificant
 
-next -> definition of devops
-
+next -> start with the definition of devops
 ___
 
 <br/>
@@ -688,12 +722,10 @@ ___
 
 notes:
 
-- explain cluster analysis
-- explain latent construct
-- explain likert-type scales
+- read the definition
+- point out the link to the report
 
-next -> emphasize culture and technicialk
-
+next -> emphasize culture and technical
 ___
 
 <br/>
@@ -707,17 +739,11 @@ ___
 
 notes:
 
-- first how to measure technical
-- then how to measure cultural
+- cannot have one without the other
+- without culture, then you cannot innovate
+- without technical, you cannot move fast enough to survive in this day and age
 
-- explain
-- cluster analysis
-- likert-type scales
-- psychometrics
-- latent construct
-
-next -> measures
-
+next -> methodology
 ___
 
 <div class="r-vstack">
@@ -732,14 +758,15 @@ ___
 
 notes:
 
-- measures of organizational performance
-- talk about measures of software delivery performance
-- talk about measures of organizational culture
-- explain measures of transformational leadership
-- explain measures of loosely coupled architecture and teams
+- (advance fragments...)
+- cluster analysis allows for the emergence of categories
+- likert-type scales are a means of clustering
+- psychometrics is the statistical analysis of behavior in psychology
+- latent constructs are rigorous psychometric models that predict behavior
+-
+- the science is peer-reviewed and the findings are significant
 
 next -> measures
-
 ___
 
 <div class="r-vstack">
@@ -755,8 +782,14 @@ ___
 
 notes:
 
-next -> measures of organizational performance are well-known
+- (advance fragments...)
+- organizational performance
+- software delivery performance
+- culture
+- transformational leadership
+- loosely coupled architecture and teams
 
+next -> measures of organizational performance are well-known
 ___
 
 <div class="r-vstack">
@@ -767,17 +800,25 @@ ___
   <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
 </div>
 
-notes: measures of organizational performance are well-known
+notes:
+
+- (advance fragments...)
+- measures of organizational performance are well-known
+- productivity
+- profitability
+- market share
 
 next -> how to measure software delivery performance?
-
 ___
 
   <Blockquote><h3>how to measure software delivery performance?</h3></Blockquote>
   <img class="r-stretch" data-src="resources/placeholder.png" alt="placeholder"/>
   <p></p>
 
-notes: next
+notes:
+
+- (advance fragment)
+- speed
 
 next -> 4 keys
 
