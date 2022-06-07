@@ -1458,6 +1458,16 @@ notes:
 
 - tell the NUMMI story
 
+next -> changing culture: the andon cord
+___
+
+  <Blockquote><b>changing culture at NUMMI</b></Blockquote>
+  <img class="contain" data-src="https://oneibmcloud.github.io/ibm-cloud-garage-developer-bootcamp/resources/andon-chord.png" alt="NUMMI"/>
+
+notes:
+
+- tell the story of the andon cord
+
 next -> what changing culture at NUMMI shows?
 ___
 > #### what changing culture at NUMMI shows?
