@@ -1485,9 +1485,13 @@ notes:
 
 next -> how do we change our culture?
 ___
+> #### how do we change our culture?
 
-  <Blockquote><b>how do we change our culture?</b></Blockquote>
-  <img class="contain" width="30%" height="30%" data-src="resources/unlearn.jpg" alt="unlearn"/>
+<img class="contain" width="30%" height="30%" data-src="resources/unlearn.jpg" alt="unlearn"/>
+
+unlearn whatever is preventing us for discovering what's new <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:60%" -->
+
+follow the DORA recipe and do new stuff <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:60%" -->
 
 notes:
 
