@@ -1439,7 +1439,24 @@ ___
   <Blockquote><b>Westrum Typology</b></Blockquote>
   <img class="r-stretch" data-src="https://oneibmcloud.github.io/ibm-cloud-garage-developer-bootcamp/resources/westrum-typology.png" alt="nicole"/>
 
-notes: key finding
+notes:
+
+- Ron Westrum studied safety outcomes in health care and aviation
+- these are industries where if you make a mistake, people die
+- key finding: safety correlated with the way information flows in the org
+
+next -> can you change culture?
+___
+
+  <Blockquote><b>how do we change culture?</b></Blockquote>
+  <img class="contain" data-src="https://oneibmcloud.github.io/ibm-cloud-garage-developer-bootcamp/resources/nummi.png" alt="NUMMI"/>
+
+**_[How to Change a Culture: Lessons From NUMMI](https://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/)_**<!--
+.element: style="font-size: 60%" -->
+
+notes:
+
+- tell the NUMMI story
 
 next -> return on investment
 ___
