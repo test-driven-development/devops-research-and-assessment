@@ -1306,8 +1306,24 @@ notes:
 
 - PLC's DORA Dashboard
 
-next -> let's define culture
+next -> agenda: culture
+___
+> ### Agenda
 
+- PLC case study <!-- .element: style="color:#e0dfe4; font-weight:bold;" -->
+- origins and authors of the study <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the science <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- what it predicts about behavior <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- the measures <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- culture <!-- .element: style="color:maroon; font-weight:bold;  " -->
+- transformational leadership <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+- loosely coupled architecture and teams <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
+
+notes:
+
+- agenda: culture
+
+next -> let's define culture
 ___
 
 <br/>
@@ -1365,7 +1381,7 @@ notes:
 
 next -> how to measure culture?
 
-
+___
 <br/>
 
 > ## how to measure organizational culture?<!-- .element: style="color: purple" -->
