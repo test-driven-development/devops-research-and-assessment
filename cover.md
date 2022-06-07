@@ -16,18 +16,16 @@ notes:
 
 next -> describe how the PLC case study started with my tweet
 ___
-<!--suppress RequiredAttributes -->
+> ### Where we Ended Up
 
-<Blockquote><b>Where we Ended Up</b></Blockquote>
+<img class="r-stretch" data-src="resources/CDCon.png" alt="cdcon"/>
+
 <br/>
-<img data-src="resources/CDCon.png" alt="CDCon"/>
-<br/>
-<br/>
+
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 [**_https://twitter.com/wilpannell/status/1485878534572679170_**](https://twitter.com/wilpannell/status/1485878534572679170)<!--
 .element: style="font-size: 60%" -->
-
-<br/>
 
 notes:
 
@@ -38,8 +36,9 @@ notes:
 
 next -> start with the agenda
 ___
-
 > ### Agenda
+
+<br/>
 
 - PLC case study <!-- .element: style="color:maroon; font-weight:bold;" -->
 - origins of the study <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  " -->
@@ -60,7 +59,9 @@ notes:
 
 next -> start with the PLC Case Study
 ___
-> ### Table of Contents
+> ### Agenda
+
+<br/>
 
 - PLC case study <!-- .element: style="color:maroon; font-weight:bold;" -->
 - origins of the study <!-- .element: style="color:#e0dfe4; font-weight:bold;  " -->
@@ -78,103 +79,169 @@ notes:
 
 next -> starts with PLC
 ___
-<!--suppress RequiredAttributes -->
+> #### Personal Lifetime Communications
 
-  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
-  <img class="r-stretch" data-src="resources/plc.png" alt="plc"/>
-  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/plc.png" alt="plc"/>
+
+#### (PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" -->
 
 notes:
 
-- PLC
+- PLC has perhaps the youngest core team of any at Ford Credit
 
-next -> product visionary: tara
+next -> the whole team revolves around the product visionary
 ___
-<!--suppress RequiredAttributes -->
+> #### Personal Lifetime Communications
 
-  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
-  <img class="r-stretch" data-src="resources/plc-tara.png" alt="plc"/>
-  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/plc-tara.png" alt="tara"/>
+
+#### (PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" -->
 
 notes:
 
-- product visionary: tara
+- tara is a group product owner in Julien's organization
+- she can offer a stream of consciousness of great product ideas
+- all of which sound like they can make money
 
-next -> precocious PO: eileen
+next -> there's our precocious PO
 ___
-<!--suppress RequiredAttributes -->
+> #### Personal Lifetime Communications
 
-  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
-  <img class="r-stretch" data-src="resources/plc-eileen.png" alt="plc"/>
-  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/plc-eileen.png" alt="eileen"/>
+
+#### (PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" -->
 
 notes:
 
-- precocious PO: eileen
+- eileen was a first-time product owner from the customer service organization
+- she has a dynamic relationship with her developers
+- she joins them throughout the day in the mobs in the team room
+- she participates in their end-of-day ceremony (better than the scrum retros)
+- here's an example of the specs she wrote in her first month as
 
-next -> tech lead: andrew
+next -> these are the kinds of specs she wrote in her first month or two
 ___
-<!--suppress RequiredAttributes -->
+> #### Personal Lifetime Communications
 
-  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
-  <img class="r-stretch" data-src="resources/plc-andrew.png" alt="plc"/>
-  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+![]()<!-- .element: class="contains" data-src="resources/plc-specs-for-mileage-calculator.jpg" alt="specs"" -->
+
+#### (PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" -->
 
 notes:
 
-- tech lead: andrew
+- among the best specs I've seen
+- let me zoom in
+
+next -> back to eileen
+___
+> #### Personal Lifetime Communications
+
+<img class="r-stretch" data-src="resources/plc-eileen.png" alt="eileen"/>
+
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
+
+notes:
+
+- that was eileen: precocious
+
+next -> andrew
+___
+> #### Personal Lifetime Communications
+
+<img class="r-stretch" data-src="resources/plc-andrew.png" alt="andrew"/>
+
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
+
+notes:
+
+- andrew is the tech lead and the oldest surviving member of the core team
 
 next -> the youngest dev and the front end lead: jeremy
 ___
-<!--suppress RequiredAttributes -->
+> #### Personal Lifetime Communications
 
-  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
-  <img class="r-stretch" data-src="resources/plc-jeremy.png" alt="plc"/>
-  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/plc-jeremy.png" alt="jeremy"/>
+
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
-- the youngest dev and the front end lead: jeremy
+- this was jeremy's first job out of college
+- super smart
+- even remembers stuff from when he was 2.5 years old
+- knew his stuff so well on the web platform that everyone followed him
+- including me
 
 next -> shanaz
 ___
-<!--suppress RequiredAttributes -->
+> #### Personal Lifetime Communications
 
-  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
-  <img class="r-stretch" data-src="resources/plc-shanaz.png" alt="plc"/>
-  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+<img class="r-stretch" data-src="resources/plc-shanaz.png" alt="shanaz"/>
 
-notes:
-
-- shanaz
-
-next -> together shanaz and jeremy were part of the original tiger team
-___
-<!--suppress RequiredAttributes -->
-
-  <Blockquote><b>Personal Lifetime Communications</b></Blockquote>
-  <img class="r-stretch" data-src="resources/plc-tiger-team.png" alt="plc"/>
-  <h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
-- together shanaz and jeremy were part of the original tiger team
+- she set the standard that prevails to this day of committing code to prod on day 1
+- shanaz came in along with jeremy in a cohort of 3 young first-time devs
 
-next -> concentrated on deployment frequency
-
+next -> the original tiger team
 ___
-<Blockquote><b>Personal Lifetime Communications</b></Blockquote>
+> #### Personal Lifetime Communications
+
+<img class="r-stretch" data-src="resources/plc-tiger-team.png" alt="tiger-team"/>
+
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
+
+notes:
+
+- I named the 3 of them together as the tiger team
+- all I had to do was point them in a direction and they wouldn't wait for me to finish
+- they would just charge ahead and get stuff done
+
+next -> here's a sketch of them picking apart the UXR for regions on the coded page
+___
+> #### Personal Lifetime Communications
+
+![]()<!-- .element: class="contains" width="85%" height="85%" data-src="resources/plc-mileage-calculator-component-breakdown.jpg" alt="specs"" -->
+
+#### (PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" -->
+
+notes:
+
+- it was a pleasure to watch them work
+- real camaraderie
+- constant dialog
+- all their cursors moving concurrently yet in unison
+- let me zoom in
+
+next -> that's PLC
+___
+> #### Personal Lifetime Communications
+
+<img class="r-stretch" data-src="resources/plc-tiger-team.png" alt="tiger-team"/>
+
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
+
+notes:
+
+- a great young team
+
+next -> what they did was look strictly at deployment frequency
+___
+
+> #### Personal Lifetime Communications
 
 <iframe date-preload data-src="https://humanitec.com/blog/deployment-frequency-key-metric-in-devops" width="850px" height="425px"></iframe>
 
-**_[https://humanitec.com/blog/deployment-frequency-key-metric-in-devops](https://humanitec.com/blog/deployment-frequency-key-metric-in-devops)_**<!--
+[**_https://humanitec.com/blog/deployment-frequency-key-metric-in-devops_**](https://humanitec.com/blog/deployment-frequency-key-metric-in-devops)<!--
 .element: style="font-size: 30%" -->
 
-<h4><b>(PLC Case Study @ CDCon 2022)<!-- .element: style="color:maroon; font-size:70%" --></b></h4>
+#### (PLC Case Study @ CDCon 2022) <!-- .element: style="color:maroon; font-weight:bold; font-size:70%"  -->
 
 notes:
 
-- concentrated on deployment frequency
+- link was courtesy of Sajid Mohammed
 
 next -> PLC's improvement in 2021
 ___
