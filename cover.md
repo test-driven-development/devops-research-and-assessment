@@ -461,11 +461,87 @@ notes:
 
 next -> PLC's business impact
 ___
-> #### PLC's business impact
-
-![]()<!-- .element: width="660px" height="370px" data-src="resources/state-to-state-bottom-line-impacts.png" alt="impact" -->
+> #### PLC's bottom-line impact
 
 <br/>
+
+State-to-State Vehicle Transfer Product <!-- .element: style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+released a few weeks ago <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+85% feature helpfulness score <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+in ~2 weeks saved ~$3K in service calls <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+additional savings in manual process automation <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+<br/>
+<br/>
+<p></p>
+<br/>
+
+#### (2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
+
+notes:
+
+- state-to-state transfer
+
+next -> another impact of this product
+___
+> #### PLC's bottom-line impact
+
+<br/>
+
+![]()<!-- .element: class="contains" width="70%" height="70%" data-src="resources/state-to-state-bottom-line-impacts.png" alt="impact" -->
+
+<br/>
+<p></p>
+
+#### (2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
+
+notes:
+
+- this is the state-to-state transfer slide from May's what-the-heck
+- in 1 interation
+- shipped
+- got feedback regarding a misunderstood feature
+- released a fix in a day
+
+next -> mileage calculator widget
+___
+> #### PLC's bottom-line impact
+
+<br/>
+
+![]()<!-- .element: class="contains" width="70%" height="70%" data-src="resources/a-b-test.png" alt="a/b" -->
+
+<br/>
+<p></p>
+
+#### (2022)<!-- .element: style="color:maroon; font-weight:bold; font-size:70%" --></b></h4>
+
+notes:
+
+- the mileage calculator widget was an A/B test on the account manager home page
+
+next -> mileage calculator business impact
+___
+> #### PLC's bottom-line impact
+
+<br/>
+
+Mileage Calculator Widget A/B Test <!-- .element: style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+self-contained component deployable to other channels <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+OKR target: reduce service calls by 5% <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+OKR actual: 11% <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+1-year projected savings: $115,469.33 <!-- .element: class="fragment" style="color:maroon; font-weight:bold;  font-size:90%" -->
+
+(savings estimated @ $8.17 per service call) <!-- .element: class="fragment"  style="color:maroon; font-weight:bold;  font-size:90%" -->
+
 <br/>
 <br/>
 
@@ -473,14 +549,9 @@ ___
 
 notes:
 
-- May's what-the-heck
-- in 1 interation
-- shipped
-- got feedback regarding a misunderstood feature
-- released a fix in a day
+- state-to-state transfer
 
-next -> The State of DevOps Reports Home Page
-
+next -> another impact of this product
 ___
 
 <iframe date-preload data-src="https://www.devops-research.com/research.html#reports" width="900px" height="450px"></iframe>
