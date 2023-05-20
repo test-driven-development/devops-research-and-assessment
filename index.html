@@ -1,32 +1,31 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta
-        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-        name="viewport">
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+      name="viewport"
+    />
 
-    <title>reveal.js</title>
+    <title>DORA</title>
 
-    <link href="dist/reset.css" rel="stylesheet">
-    <link href="dist/reveal.css" rel="stylesheet">
-    <link href="dist/theme/white.css" rel="stylesheet">
-    <link href="dist/styles.css" rel="stylesheet">
+    <link href="dist/reset.css" rel="stylesheet" />
+    <link href="dist/reveal.css" rel="stylesheet" />
+    <link href="dist/theme/white.css" rel="stylesheet" />
+    <link href="dist/styles.css" rel="stylesheet" />
 
     <!-- Theme used for syntax highlighted code -->
-    <link href="plugin/highlight/monokai.css" rel="stylesheet">
+    <link href="plugin/highlight/monokai.css" rel="stylesheet" />
   </head>
   <body>
     <div class="reveal header-left">
       <div class="slides">
         <section
-            data-markdown="cover.md"
-            data-separator="^___"
-            data-separator-vertical="^==="
-        >
-        </section>
+          data-markdown="cover.md"
+          data-separator="^___"
+          data-separator-vertical="^==="
+        ></section>
       </div>
-
     </div>
 
     <script src="dist/reveal.js"></script>
@@ -38,8 +37,8 @@
         hash: true,
         transition: 'fade',
         markdown: {smartypants: true},
-        plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
-      });
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      })
     </script>
   </body>
 </html>
